@@ -1,0 +1,1 @@
+export const GET_BLOG_INFO = 'detail/GET_BLOG_INFO'

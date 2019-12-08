@@ -1,0 +1,1 @@
+export const SUBMIT_BLOG = 'write/SUBMIT_BLOG'

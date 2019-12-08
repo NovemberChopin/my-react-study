@@ -1,0 +1,450 @@
+{
+  "success": true,
+  "data": [
+    {
+      "content": "<div class=\"markdown-text\"><p>截止1 月 12日晚 22:00，有效参与人数共 252 人，抽取 5 名中奖者。\n恭喜以下中奖者🎉🎉🎉🎉🎉 gofromzero,MoeXian,yxcs,caoxiaoshuai1,langjy🎉🎉🎉🎉🎉\n请评论区留下联系方式。\n<img src=\"//static.cnodejs.org/Fvx9s9EjQk7IwNrAMO5_y7zJfrej\" alt=\"image.png\"></p>\n<p>---------------- 以下是原文 ----------------</p>\n<p>新书《Node.js开发实战》热卖，大获好评，感谢大家的支持，送几本书回馈给大家。</p>\n<p>赠书办法：</p>\n<ul>\n<li>只须在本贴留言即可。</li>\n<li>从回贴评论者中随机抽取中奖者，共计 5 本，每位中奖者 1 本。</li>\n<li>获赠名单公布在本帖，并在本贴下评论 @ 每位获赠的同学。</li>\n<li>截止时间 2019 年 1 月 12 日 22:00:00 （ UTC+8 ），以评论时间为准。</li>\n<li>由于本站不支持私信，请获奖同学在本帖回复联系方式，邮箱或者任何其它能联系到你的形式。</li>\n<li>开奖后 72 小时未能回复联系方式者视为放弃。</li>\n</ul>\n<p>试读样章：<a href=\"https://pan.baidu.com/s/1x3c35AmJV4rcEj_W3A1WGg\">https://pan.baidu.com/s/1x3c35AmJV4rcEj_W3A1WGg</a>\n京东有售：<a href=\"https://item.jd.com/12460185.html\">https://item.jd.com/12460185.html</a>\n<img src=\"//static.cnodejs.org/Finp2H7di-Equ_yMWsjJY6hxYGkh\" alt=\"WechatIMG148 copy.jpg\"></p>\n</div>",
+      "title": "送几本《Node.js开发实战》",
+      "meta": {
+        "likeNum": 319,
+        "commentNum": 8132,
+      },
+      "author_nickname": "meikidd",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/376338?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>2018年10月27日晚上，突然收到服务器不能访问的告警通知，拜托了狼叔 <a href=\"/user/i5ting\">@i5ting</a> 帮忙看看，结果登不上也ping不通。\n后来收到短信，发现是被ucloud封了，短信内容如下：</p>\n<blockquote>\n<p>【UCloud】尊敬的UCloud用户，您的IP：123.59.77.142  存在URL ：<a href=\"https://cnodejs.org/topic/57239bce5a26c4a841ecbf01\">https://cnodejs.org/topic/57239bce5a26c4a841ecbf01</a> （详细信息请查看邮箱）包含违禁内容（包括但不限于翻墙等），违反了国家有关法律法规。目前依主管单位要求，对您的IP予以封停，请您尽快处理违规内容。待处理完成后请联系技术支持重新开启业务。[4000188113]</p>\n</blockquote>\n<p>然后联系了ucloud的客服，一下就打通了，对方态度挺好处理问题也快。ucloud说是运营商那边封的，不是他们的检测机制。所以需要联系运营商解决。\n考虑到各位亲爱的网友们的行为我无法控制，那么一直跟越来越严格的审查系统对抗只会让自己疲惫，所以我就站点迁到国外。来到了aws jp。</p>\n<p>我大致测了测，电信和移动的访问速度非常快，100ms以内，联通会慢一点，400ms以内吧。</p>\n<p>建议翻墙访问。</p>\n</div>",
+      "title": "服务器迁移至 aws 日本机房",
+      "meta": {
+        "likeNum": 122,
+        "commentNum": 13791,
+      },
+      "author_nickname": "alsotang",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1147375?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>北京1月12日Node Party活动视频地址：<a href=\"https://edu.talkingdata.com/open-class\">https://edu.talkingdata.com/open-class</a></p>\n<p>Node Party 是社区发起的一个面向 Node.js 和大前端爱好者的非商业，社区驱动的技术分享聚会，希望能够构建一个持续的分享学习平台，一起发展大前端生态。</p>\n<p>北京1月12日Node Party线下活动（周六）下午2点到6点，将近100人</p>\n<ul>\n<li>主题分享（已确认，共5个主题：3个Node.js主题，一个运维，一个前端）\n<ul>\n<li>《重新认识Nodejs后端开发》 eggjs + React + SSR 做同构直出（去哪儿）</li>\n<li>《用mqtt协议实现nodejs长连接服务》Nodejs长连接，主要是性能和协议改造方面的（新浪）</li>\n<li>《浅谈nodejs异步那点事》（360）</li>\n<li>结合Node.js讲一下Docker 实践和原理（网易）</li>\n<li>iview作者：如何做好一个开源项目（TalkingData）</li>\n</ul>\n</li>\n<li>视情况可以考虑晚上AA聚</li>\n</ul>\n<p>时间：北京1月12日（周六）下午2点到6点\n地点：东直门TalkingData赞助的502教室\n人数：最多100人\n直播地址：<a href=\"https://live.bilibili.com/1353202\">https://live.bilibili.com/1353202</a></p>\n<p>现场还有 <a href=\"/user/justjavac\">@justjavac</a>，@小爵，@快手天翔 @王龑 等大咖。</p>\n<p>图灵出版社赞助了20本书，现场送给大家</p>\n<h2>日程安排</h2>\n<p>每个主题分享+答疑共45分钟，5个主题分享：3个Node.js主题，一个运维，一个前端\n茶歇5分钟（北京乐至道科技有限公司赞助茶歇，已经京东到会场）\n圆桌会议30分钟</p>\n<p>2:00-2:45\n刘露颖：《用mqtt协议实现nodejs长连接服务》Nodejs长连接，主要是性能和协议改造方面的（新浪）</p>\n<p>2:45-3:30\n张晋涛：《结合Node.js讲一下Docker 实践和原理》（网易）</p>\n<p>3:30-4:15\niView作者Aresn：如何做好一个开源项目（TalkingData）</p>\n<p>茶歇5分钟，感谢北京乐至道科技有限公司。DaDEX.io基于EOS公链开发，链上合约自动执行，全部交易上链，率先实现去中心化交易、高并发、低手续费、资金安全、最高交易透明的真去中心化交易所范式，无需注册、认证等繁琐流程，个人钱包内一键交易。致力于完善EOS生态，服务EOS用户，与跨链技术的结合，向传统中心化交易所发起挑战</p>\n<p>4:20-4:50\n圆桌会议：畅想一下前端2019（大神待定）</p>\n<p>4:50-5:35\n兴百放：《重新认识Nodejs后端开发》 eggjs + React + SSR 做同构直出（去哪儿）</p>\n<p>5:35-6:10\n宋光宇：《浅谈nodejs异步那点事》（360）</p>\n<h2>主题</h2>\n<h3>1）《重新认识Node.js后端开发》</h3>\n<p>兴百放，先就职在美团外卖事业部，负责前后端分离，以及 Nodejs 推广工作。本着不管黑猫白猫，只要能解决现实业务问题，提高团队工作效率，就是好猫的原则，致力于让团队成员从重复，耗时，繁琐的一些工作中解放出来。</p>\n<p>随着前端行业的蓬勃发展，越来越多的技术团队，对前端的职责范围，也慢慢的延伸到后端。这里就分享一些在我们进行服务自治（BFF），以及接管传统后端职责一些沉淀和经验。内容主要包括如何做技术框架的选型，使用 egg 一些经验总结，和 eggjs + React + SSR 做同构直出等内容 。</p>\n<p><img src=\"//static.cnodejs.org/FnS8WR95lO1Ff7KevyeHsDHuNCjp\" alt=\"兴百放.png\"></p>\n<h3>2）《Docker 实践和原理》</h3>\n<p>张晋涛，目前任网易有道资深运维开发工程师, 负责 DevOPS 实践落地及 Kubernetes 容器化平台及自动化平台的规划建设等。骨灰级 Linux/Vim 玩家，对 Docker， Kubernetes 及相关生态有大量实践及深入源码的研究。曾负责美图运维自动化平台体系建设。掘金小册《Kubernetes 从上手到实践》作者。</p>\n<p>随着 Kubernetes 等云原生技术的事实标准已经形成，容器化技术作为其重要的组成部分也被使用的越来越广泛。在我们的开发实践中，如何更好的利用容器化技术( Docker )来提升我们的开发，测试效率也是我们所关注的重点。 本次分享集中于如何用 Docker 提升我们的效率以及如何用好它。以 node 和 前端为入手点，希望能对大家有所帮助。</p>\n<p><img src=\"//static.cnodejs.org/FoVKIjHzQJqhwe6IgBWiw2BEWoX-\" alt=\"张晋涛.png\"></p>\n<h3>3）《浅谈Node.js异步那点事》</h3>\n<p>宋光宇 360前端工程师 360视频云/360云盘@奇舞团，</p>\n<p>nodejs给前端赋予了更多的生命力，它的异步模型给他带来无限的潜力。\n今天通过libuv这个nodejs核心库来聊聊nodejs异步的那点事。</p>\n<p><img src=\"//static.cnodejs.org/FmlpCMQIdEjJBXaxDSLS77gpcdqw\" alt=\"宋光宇.png\"></p>\n<h3>4）iView作者：如何做好一个开源项目</h3>\n<p>Aresn，基于 Vue.js 的开源 UI 组件库 — iView 的作者。现担任大数据公司 TalkingData 前端架构师。著有《Vue.js实战》、《Vue.js组件精讲》。\nTopic：</p>\n<ul>\n<li>iView 的故事</li>\n<li>第一批用户</li>\n<li>持续运营</li>\n<li>国际化</li>\n<li>让更多的人参与</li>\n<li>让 Robot 来做“坏人”</li>\n<li>赞助与商业化</li>\n</ul>\n<p><img src=\"//static.cnodejs.org/FlPAOO-2v0z85GbQ5StQPcIo5ESN\" alt=\"梁灏.png\"></p>\n<h3>5）《用mqtt协议实现Node.js长连接服务》</h3>\n<p>刘露颖，曾就职搜狐视频，新浪博客，目前任职新浪移动团队资深前端开发工程师，负责nodejs相关的服务开发与维护、以及部分运维相关工作。致力于v8的研究，对c++与nodejs之间的关系有深厚兴趣，并付诸实践。</p>\n<p>mqtt协议随着各种手机app的普及，在移动互联网中有了广泛的应用，借着项目的实践过程，讲术如何更好的使mqtt与nodejs相结合，为现在越来越普遍的高并发场景提供长连接服务的解决方案。</p>\n<p><img src=\"//static.cnodejs.org/FtVeXBznM2mqBtcxdDQEiC13R_xj\" alt=\"刘露颖.png\"></p>\n<h2>微信群</h2>\n<p>群满100人后无法加群的, 添加我微信 mcdongWang 备注 node party 北京 我回拉你进群</p>\n<p><img src=\"//static.cnodejs.org/FvqZCML0PfbFHt6xknAhJmkWKDPU\" alt=\"31545188678_.pic.jpg\"></p>\n<p>公众号文章地址</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzAxMTU0NTc4Nw==&amp;mid=2661157727&amp;idx=1&amp;sn=0b7a6aa495fbe3afe4a4d3774faf8706&amp;chksm=80d5d68bb7a25f9d125e17ff08d1f373435db4a8a7fe2d074f4fbe58c517beb93266e08a4295&amp;token=1373872492&amp;lang=zh_CN#rd\">https://mp.weixin.qq.com/s?__biz=MzAxMTU0NTc4Nw==&amp;mid=2661157727&amp;idx=1&amp;sn=0b7a6aa495fbe3afe4a4d3774faf8706&amp;chksm=80d5d68bb7a25f9d125e17ff08d1f373435db4a8a7fe2d074f4fbe58c517beb93266e08a4295&amp;token=1373872492&amp;lang=zh_CN#rd</a></p>\n</div>",
+      "title": "【\b活动+视频】北京1月12日Node Party活动",
+      "meta": {
+        "likeNum": 46,
+        "commentNum": 6595,
+      },
+      "author_nickname": "i5ting",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3118295?v=4&s=120",
+      "author_id": ""
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><pre class=\"prettyprint\"><code>var o={} \ni=0\no.valueOf=function(){\n return i++\n}\no==0\n&#x2F;&#x2F;true\no==0\n&#x2F;&#x2F;false\n</code></pre><p>今天真的就遇到该系列了… 由于get set 导致两次取值不一致的情况…</p>\n</div>",
+      "title": "哇你居然在代码里面下毒系列--1",
+      "meta": {
+        "likeNum": 5,
+        "commentNum": 482,
+      },
+      "author_nickname": "spitWind",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/18753430?v=4&s=120",
+      "author_id": ""
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>Efilemangage</p>\n<p><a href=\"https://github.com/spitWind/EFileMangage\">文件管理器</a></p>\n<p>##启动</p>\n<pre class=\"prettyprint language-bash\"><code>npm instal l\nelectron .\n</code></pre><p>##功能\n1.初始一个文件收藏夹 以及备注功能\n欢迎fork\n##授权\n禁止任意形式所有商业行为,以及传递后的商业行为</p>\n</div>",
+      "title": "Efilemangage 欢迎加入~",
+      "meta": {
+        "likeNum": 0,
+        "commentNum": 44,
+      },
+      "author_nickname": "spitWind",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/18753430?v=4&s=120",
+      "author_id": ""
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>如题，代码执行后报错：a is not defined\n顺带研究下var和let的区别：var a=1;function foo (){console.log(‘a:’,a);var a = 2;};foo();为什么是打印a:undefined</p>\n</div>",
+      "title": "let a=1;function foo (){console.log('a:',a);let a = 2;};foo();为什么报错？",
+      "meta": {
+        "likeNum": 1,
+        "commentNum": 51,
+      },
+      "author_nickname": "JarvisQJ",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/15104950?v=4&s=120",
+      "author_id": ""
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p><a href=\"https://docsmall.com\">docsmall在线图片压缩工具</a></p>\n<p>有需要的朋友可以用用看</p>\n<p><img src=\"//static.cnodejs.org/FrbnjzNz3fFX1IvNNSZdiDYH4QBD\" alt=\"20190212193207.gif\"></p>\n</div>",
+      "title": "我们开发了一个在线图片压缩、PDF 压缩、合并、分割的小工具",
+      "meta": {
+        "likeNum": 8,
+        "commentNum": 321,
+      },
+      "author_nickname": "houxiaohou",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1525931?v=4&s=120",
+      "author_id": ""
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>如何制作前端直接操作服务器数据的sdk? 就像微信小程序的云开发，前端操作数据库的API与后端操作数据库的API一样。</p>\n</div>",
+      "title": "如何制作前端直接操作服务器数据的sdk?",
+      "meta": {
+        "likeNum": 3,
+        "commentNum": 303,
+      },
+      "author_nickname": "yuquanH",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/27963145?v=4&s=120",
+      "author_id": ""
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><h5>代码</h5>\n<pre class=\"prettyprint\"><code>const group = await Cabinet.findAll({\n        include: [tagsInfo],\n        where: opt,\n        attributes: [&quot;groupName&quot;, &quot;type&quot;],\n        group: [&quot;groupName&quot;, &quot;type&quot;],\n        logging: console.log,\n});\n</code></pre><h5>生成的查询语句</h5>\n<p>SELECT “Cabinet”.“id”, “Cabinet”.“groupName”, “Cabinet”.“type”, “tags”.“id” AS “<a href=\"http://tags.id\">tags.id</a>”, “tags”.“name” AS “<a href=\"http://tags.name\">tags.name</a>”, “tags”.“type” AS “tags.type”, “tags”.“pid” AS “tags.pid”, “tags-&gt;cabinet_tags_map”.“createdAt” AS “tags.cabinet_tags_map.createdAt”, “tags-&gt;cabinet_tags_map”.“updatedAt” AS “tags.cabinet_tags_map.updatedAt”, “tags-&gt;cabinet_tags_map”.“TagId” AS “tags.cabinet_tags_map.TagId”, “tags-&gt;cabinet_tags_map”.“CabinetId” AS “tags.cabinet_tags_map.CabinetId” FROM “cabinet_cabinet” AS “Cabinet” LEFT OUTER JOIN ( “cabinet_tags_map” AS “tags-&gt;cabinet_tags_map” INNER JOIN “cabinet_tags” AS “tags” ON “tags”.“id” = “tags-&gt;cabinet_tags_map”.“TagId”) ON “Cabinet”.“id” = “tags-&gt;cabinet_tags_map”.“CabinetId” AND (“tags”.“deletedAt” &gt; ‘2019-02-13 16:33:33.971 +08:00’ OR “tags”.“deletedAt” IS NULL) WHERE (“Cabinet”.“deletedAt” &gt; ‘2019-02-13 16:33:33.971 +08:00’ OR “Cabinet”.“deletedAt” IS NULL) GROUP BY “groupName”, “type”;</p>\n<h5>问题</h5>\n<pre class=\"prettyprint\"><code>查询语句第一行中的select中 除了我需要查询的字段  groupName ,  type  之外多出了很多无用的字段，这些导致报错\n</code></pre><p><code>column &quot;Cabinet.id&quot; must appear in the GROUP BY clause or be used in an aggregate function</code>\n\t这有没有办法去除？\n\t如果可以的话希望大佬们能更改下代码，我去研究研究</p>\n</div>",
+      "title": "sequelize 使用 find&findAll查询时，能否去除多余查询的列？",
+      "meta": {
+        "likeNum": 0,
+        "commentNum": 65,
+      },
+      "author_nickname": "91hanbao",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/15627199?v=4&s=120",
+      "author_id": ""
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>最近想学个 node 框架（支持 ts），发现这仨框架应该算是比较流行的了（express 略古老，koajs 还要自己拼装插件）。</p>\n<p>不知道这三个框架哪一个比较合适？</p>\n<p>打算的架构是 nodejs + redis + mongodb/mysql。</p>\n</div>",
+      "title": "Egg.js/thinkjs/nestjs 该如何选择？",
+      "meta": {
+        "likeNum": 32,
+        "commentNum": 1428,
+      },
+      "author_nickname": "JZLeung",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7995232?v=4&s=120",
+      "author_id": ""
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>各位小哥哥小姐姐，分享个圣诞桌面祝大家圣诞快乐\n<a href=\"http://desktop.bittyos.com/?share=46fada80-f9fc-11e8-a653-373a5689e1b3\">http://desktop.bittyos.com/?share=46fada80-f9fc-11e8-a653-373a5689e1b3</a>\n<img src=\"//static.cnodejs.org/FrFmzitH9OluHpCz3xAZlMPwHjww\" alt=\"QQ截图20181224103521.jpg\"></p>\n</div>",
+      "title": "圣诞桌面 Merry Christmas",
+      "meta": {
+        "likeNum": 7,
+        "commentNum": 660,
+      },
+      "author_nickname": "yunfei",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6891001?v=4&s=120",
+      "author_id": ""
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p><strong>koa2实战项目介绍（真全栈）：</strong></p>\n<p><strong>Nodejs+koa2实战视频教程</strong>从零开始一步一步让你学会Koa基础以及用用<strong>Koa开发项目</strong>，本教程涉及 用户权限判断 、<strong>验证码</strong> 、分页、多级分类、<strong>ueditor可视化富文本编辑器</strong>、图片上传、<strong>底层DB库封装</strong>、<strong>扩展art-template的核心方法、<strong>ajax改变状态、ajax排序、以及赠送的</strong>Socket.io机器人</strong> 、Socket.io多人聊天室、<strong>Socket.io群聊</strong>、前后端分离 <strong>RESTful API Api</strong>接口、购买域名 服务器、域名备案、<strong>nginx负载均衡</strong>、<strong>域名解析部署nodejs程序</strong>、Nodejs进程管理器pm2模块、Koa操作<strong>mysql数据库</strong></p>\n<p><strong>地址：</strong> <a href=\"https://www.itying.com/goods-800.html\">Koa2实战视频教程下载地址点我</a></p>\n<p><strong>2018 Nodejs+Koa2入门实战视频教程百度网盘下载地址（41讲免费基础下载地址）：</strong></p>\n<p><a href=\"https://pan.baidu.com/s/1KNaA97kGwNhavch5rP_G7w\">https://pan.baidu.com/s/1KNaA97kGwNhavch5rP_G7w</a></p>\n</div>",
+      "title": "Nodejs+koa2实战视频教程【87讲】--Koa2+Nodejs+MongoDb打造企业级CMS前后端全栈项目实战视频教程",
+      "meta": {
+        "likeNum": 62,
+        "commentNum": 12874,
+      },
+      "author_nickname": "songsunli",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/41601667?v=4&s=120",
+      "author_id": ""
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p><a href=\"https://gridsome.org\">https://gridsome.org</a>\n各位有人用过这个吗？今天看到个 Gridsome 用起来十分舒服，基本上等同于 Vue 里的 Gatsby，因为 Vue 的单文件组件机制，看起来比 JS、HTML、React 混成一坨的 React 代码更优雅点，用法跟 Nuxt 其实很像，也提供了 Nuxt 里没有的东西，静态化应该做的比 Nuxt 更好，已经极致优化过速度，自动代码分包和其他一系列懒加载、生成静态配套，连图片的懒加载都做了。</p>\n<p>而且还集成了 GraphQL，在单文件组件里就可以直接用 &lt;page-query&gt; 的这个类似 &lt;script&gt; 的标签来直接调用 GraphQL，觉得比那种写在代码里的优雅也省事多了，对性能、SEO和开发效率都有优化，不过看国内好像还没什么人用啊？</p>\n</div>",
+      "title": "Gridsome - Vue.js 生态圈下的 Gatsby.js",
+      "meta": {
+        "likeNum": 5,
+        "commentNum": 495,
+      },
+      "author_nickname": "andyhu",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/203980?v=4&s=120",
+      "author_id": ""
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p><strong>摘要：</strong> 理解JS继承。</p>\n<ul>\n<li>原文：<a href=\"https://segmentfault.com/a/1190000016542417\">搞懂 JavaScript 继承原理</a></li>\n<li>作者：<a href=\"https://segmentfault.com/a/1190000017794020\">前端小智</a></li>\n</ul>\n<p><strong><a href=\"https://www.fundebug.com/\">Fundebug</a>经授权转载，版权归原作者所有。</strong></p>\n<p>在理解继承之前，需要知道 js 的三个东西：</p>\n<ul>\n<li>\n<ol>\n<li>什么是 JS 原型链</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>this 的值到底是什么</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>JS 的 new 到底是干什么的</li>\n</ol>\n</li>\n</ul>\n<h3>1. 什么是 JS 原型链？</h3>\n<p>我们知道 JS 有对象，比如</p>\n<pre class=\"prettyprint language-javascript\"><code>var obj = { name: &quot;obj&quot; };\n</code></pre><p>我们通过控制台把 obj 打印出来：</p>\n<p><img src=\"https://image.fundebug.com/2019-02-10-01.png\" alt></p>\n<p>我们会发现 obj 已经有几个属性（方法）了。<strong>那么问题来了：valueOf / toString / constructor 是怎么来？我们并没有给 obj.valueOf 赋值呀。</strong></p>\n<p>上面这个图有点难懂，我手画一个示意图：</p>\n<p><img src=\"https://image.fundebug.com/2019-02-10-02.png\" alt></p>\n<p>我们发现控制台打出来的结果是：</p>\n<ul>\n<li>obj 本身有一个属性 name (这是我们给它加的)</li>\n<li>obj 还有一个属性叫做 <strong>proto</strong>(它是一个对象)</li>\n<li>obj 还有一个属性，包括 valueOf, toString, constructor 等</li>\n<li>obj.<strong>proto</strong>其实也有一个叫做<strong>proto</strong>的属性(console.log 没有显示)，值为 null</li>\n</ul>\n<p>现在回到我们的问题：obj 为什么会拥有 valueOf / toString / constructor 这几个属性？</p>\n<p><strong>答案： 这跟 <strong>proto</strong>有关 。</strong></p>\n<p>当我们「读取」 obj.toString 时，JS 引擎会做下面的事情：</p>\n<ul>\n<li>看看 obj 对象本身有没有 toString 属性。没有就走到下一步。</li>\n<li>看看 obj.<strong>proto</strong> 对象有没有 toString 属性， 发现 obj.<strong>proto</strong> 有 toString 属性， 于是找到了，所以 obj.toString 实际就是第 2 步中找到的 obj.<strong>proto</strong>.toString。</li>\n<li>如果 obj.<strong>proto</strong>没有，那么浏览器会继续查看 obj.<strong>proto</strong>.<strong>proto</strong></li>\n<li>如果 obj.<strong>proto</strong>.<strong>proto</strong>也没有，那么浏览器会继续查看 obj.<strong>proto</strong>.<strong>proto</strong>.<strong>proto</strong></li>\n<li>直到找到 toString 或者 <strong>proto</strong> 为 null。</li>\n</ul>\n<p>上面的过程，就是「读」属性的「搜索过程」。而这个「搜索过程」，是连着由 <strong>proto</strong> 组成的链子一直走的。<strong>这个链子，就叫做「原型链」。</strong></p>\n<h4>共享原型链</h4>\n<p>现在我们还有另一个对象</p>\n<pre class=\"prettyprint language-javascript\"><code>var obj2 = { name: &quot;obj2&quot; };\n</code></pre><p>如图:</p>\n<p><img src=\"https://image.fundebug.com/2019-02-10-03.png\" alt></p>\n<p>那么 obj.toString 和 obj2.toString 其实是同一东西， 也就是 obj2.<strong>proto</strong>.toString。</p>\n<p>说白了，我们改其中的一个 <strong>proto</strong>.toString ，那么另外一个其实也会变!</p>\n<h4>差异化</h4>\n<p>如果我们想让 obj.toString 和 obj2.toString 的行为不同怎么做呢？\n直接赋值就好了：</p>\n<pre class=\"prettyprint language-javascript\"><code>obj.toString = function() {\n    return &quot;新的 toString 方法&quot;;\n};\n</code></pre><p><img src=\"https://image.fundebug.com/2019-02-10-04.png\" alt></p>\n<p><strong>小结</strong></p>\n<ul>\n<li>[读]属性时会沿着原型链搜索</li>\n<li>[新增]属性时不会去看原型链</li>\n</ul>\n<h3>2. this 的值到底是什么</h3>\n<p>你可能遇到过这样的 JS 面试题：</p>\n<pre class=\"prettyprint language-javascript\"><code>var obj = {\n    foo: function() {\n        console.log(this);\n    }\n};\n\nvar bar = obj.foo;\nobj.foo(); &#x2F;&#x2F; 打印出的 this 是 obj\nbar(); &#x2F;&#x2F; 打印出的 this 是 window\n</code></pre><p>请解释最后两行函数的值为什么不一样。</p>\n<h4>函数调用</h4>\n<p>JS（ES5）里面有三种函数调用形式：</p>\n<pre class=\"prettyprint language-javascript\"><code>func(p1, p2);\nobj.child.method(p1, p2);\nfunc.call(context, p1, p2); &#x2F;&#x2F; 先不讲 apply\n</code></pre><p>一般，初学者都知道前两种形式，而且认为前两种形式「优于」第三种形式。\n我们方方老师大姥说了，你一定要记住，第三种调用形式，才是正常调用形式：</p>\n<pre class=\"prettyprint language-javascript\"><code>func.call(context, p1, p2);\n</code></pre><p>其他两种都是语法糖，可以等价地变为 call 形式：</p>\n<p>func(p1, p2)等价于 func.call(undefined, p1, p2);</p>\n<p>obj.child.method(p1, p2) 等价于 obj.child.method.call(obj.child, p1, p2);</p>\n<p>至此我们的函数调用只有一种形式：</p>\n<pre class=\"prettyprint language-javascript\"><code>func.call(context, p1, p2);\n</code></pre><p><strong>这样，this 就好解释了</strong> this 就是上面 context。</p>\n<p>this 是你 call 一个函数时传的 context，由于你从来不用 call 形式的函数调用，所以你一直不知道。</p>\n<p>先看 func(p1, p2) 中的 this 如何确定：</p>\n<pre class=\"prettyprint language-javascript\"><code>当你写下面代码时;\n\nfunction func() {\n    console.log(this);\n}\n\nfunc();\n等价于;\n\nfunction func() {\n    console.log(this);\n}\n\nfunc.call(undefined); &#x2F;&#x2F; 可以简写为 func.call()\n</code></pre><p>按理说打印出来的 this 应该就是 undefined 了吧，但是浏览器里有一条规则：</p>\n<blockquote>\n<p>如果你传的 context 就 null 或者 undefined，那么 window 对象就是默认的 context（严格模式下默认 context 是 undefined）</p>\n</blockquote>\n<p>因此上面的打印结果是 window。如果你希望这里的 this 不是 window，很简单：</p>\n<pre class=\"prettyprint language-javascript\"><code>func.call(obj); &#x2F;&#x2F; 那么里面的 this 就是 obj 对象了\n</code></pre><p>回到题目：</p>\n<pre class=\"prettyprint language-javascript\"><code>var obj = {\n    foo: function() {\n        console.log(this);\n    }\n};\n\nvar bar = obj.foo;\nobj.foo(); &#x2F;&#x2F; 转换为 obj.foo.call(obj)，this 就是 obj\nbar();\n&#x2F;&#x2F; 转换为 bar.call()\n&#x2F;&#x2F; 由于没有传 context\n&#x2F;&#x2F; 所以 this 就是 undefined\n&#x2F;&#x2F; 最后浏览器给你一个默认的 this —— window 对象\n</code></pre><h4>[ ] 语法</h4>\n<pre class=\"prettyprint language-javascript\"><code>function fn() {\n    console.log(this);\n}\nvar arr = [fn, fn2];\narr[0](); &#x2F;&#x2F; 这里面的 this 又是什么呢？\n</code></pre><p>我们可以把 arr<a href=\"https://segmentfault.com/a/1190000016542417#\">0</a> 想象为 arr.0( )，虽然后者的语法错了，但是形式与转换代码里的 obj.child.method(p1, p2) 对应上了，于是就可以愉快的转换了：</p>\n<pre class=\"prettyprint language-javascript\"><code>arr[0]();\n</code></pre><p>假想为 arr.0()\n然后转换为 arr.0.call(arr)\n那么里面的 this 就是 arr 了 :)</p>\n<p><strong>小结：</strong></p>\n<ul>\n<li>this 就是你 call 一个函数时，传入的第一个参数。</li>\n<li>如果你的函数调用不是 call 形式， 请将其转换为 call 形式</li>\n</ul>\n<p><strong>码部署后可能存在的BUG没法实时知道，事后为了解决这些BUG，花了大量的时间进行log 调试，这边顺便给大家推荐一个好用的BUG监控工具 <a href=\"https://www.fundebug.com/?utm_source=xiaozhi\">Fundebug</a>。</strong></p>\n<h3>3. JS 的 new 到底是干什么的？</h3>\n<p>我们声明一个士兵，具有如下属性：</p>\n<pre class=\"prettyprint language-javascript\"><code>var 士兵 = {\n    ID: 1, &#x2F;&#x2F; 用于区分每个士兵\n    兵种: &quot;美国大兵&quot;,\n    攻击力: 5,\n    生命值: 42,\n    行走: function() {\n        &#x2F;*走俩步的代码*&#x2F;\n    },\n    奔跑: function() {\n        &#x2F;*狂奔的代码*&#x2F;\n    },\n    死亡: function() {\n        &#x2F;*Go die*&#x2F;\n    },\n    攻击: function() {\n        &#x2F;*糊他熊脸*&#x2F;\n    },\n    防御: function() {\n        &#x2F;*护脸*&#x2F;\n    }\n};\n</code></pre><p>我们制造一个士兵， 只需要这样：</p>\n<pre class=\"prettyprint language-javascript\"><code>兵营.制造(士兵);\n</code></pre><p>如果需要制造 100 个士兵怎么办呢？</p>\n<pre class=\"prettyprint language-javascript\"><code>循环 100 次吧：\n\nvar 士兵们 = []\nvar 士兵\nfor(var i=0; i&lt;100; i++){\n  士兵 = {\n    ID: i, &#x2F;&#x2F; ID 不能重复\n    兵种:&quot;美国大兵&quot;,\n    攻击力:5,\n    生命值:42,\n    行走:function(){ &#x2F;*走俩步的代码*&#x2F;}，\n    奔跑:function(){ &#x2F;*狂奔的代码*&#x2F;  },\n    死亡:function(){ &#x2F;*Go die*&#x2F;    },\n    攻击:function(){ &#x2F;*糊他熊脸*&#x2F;   },\n    防御:function(){ &#x2F;*护脸*&#x2F;       }\n  }\n  士兵们.push(士兵)\n}\n\n兵营.批量制造(士兵们)\n</code></pre><p>哎呀，看起来好简单</p>\n<h4>质疑</h4>\n<p>上面的代码存在一个问题：浪费了很多内存</p>\n<ul>\n<li>行走、奔跑、死亡、攻击、防御这五个动作对于每个士兵其实是一样的，只需要各自引用同一个函数就可以了，没必要重复创建 100 个行走、100 个奔跑……</li>\n<li>这些士兵的兵种和攻击力都是一样的，没必要创建 100 次。</li>\n<li>只有 ID 和生命值需要创建 100 次，因为每个士兵有自己的 ID 和生命值。</li>\n</ul>\n<h4>改进</h4>\n<p>通过第一节可以知道 ，我们可以通过原型链来解决重复创建的问题：我们先创建一个「士兵原型」，然后让「士兵」的 <strong>proto</strong> 指向「士兵原型」。</p>\n<pre class=\"prettyprint language-javascript\"><code>var 士兵原型 = {\n  兵种:&quot;美国大兵&quot;,\n  攻击力:5,\n  行走:function(){ &#x2F;*走俩步的代码*&#x2F;}，\n  奔跑:function(){ &#x2F;*狂奔的代码*&#x2F;  },\n  死亡:function(){ &#x2F;*Go die*&#x2F;    },\n  攻击:function(){ &#x2F;*糊他熊脸*&#x2F;   },\n  防御:function(){ &#x2F;*护脸*&#x2F;       }\n}\n\nvar 士兵们 = []\nvar 士兵\nfor(var i=0; i&lt;100; i++){\n  士兵 = {\n    ID: i, &#x2F;&#x2F; ID 不能重复\n    生命值:42\n  }\n\n  &#x2F;*实际工作中不要这样写，因为 __proto__ 不是标准属性*&#x2F;\n  士兵.__proto__ = 士兵原型\n\n  士兵们.push(士兵)\n}\n\n兵营.批量制造(士兵们)\n</code></pre><h4>优雅？</h4>\n<p>有人指出创建一个士兵的代码分散在两个地方很不优雅，于是我们用一个函数把这两部分联系起来：</p>\n<pre class=\"prettyprint language-javascript\"><code>function 士兵(ID){\n  var 临时对象 = {};\n  临时对象.__proto__ = 士兵.原型;\n  临时对象.ID = ID;\n  临时对象.生命值 = 42;\n\n  return 临时对象;\n}\n\n士兵.原型 = {\n  兵种:&quot;美国大兵&quot;,\n  攻击力:5,\n  行走:function(){ &#x2F;*走俩步的代码*&#x2F;}，\n  奔跑:function(){ &#x2F;*狂奔的代码*&#x2F;  },\n  死亡:function(){ &#x2F;*Go die*&#x2F;    },\n  攻击:function(){ &#x2F;*糊他熊脸*&#x2F;   },\n  防御:function(){ &#x2F;*护脸*&#x2F;       }\n}\n\n&#x2F;&#x2F; 保存为文件：士兵.js\n\n 然后就可以愉快地引用「士兵」来创建士兵了：\n\nvar 士兵们 = []\nfor(var i=0; i&lt;100; i++){\n  士兵们.push(士兵(i))\n}\n\n兵营.批量制造(士兵们)\n</code></pre><p>JS 之父看到大家都这么搞，觉得何必呢，我给你们个糖吃，于是 JS 之父创建了 new 关键字，可以让我们少写几行代码：</p>\n<p><img src=\"https://image.fundebug.com/2019-02-10-05.png\" alt></p>\n<p><strong>只要你在士兵前面使用 new 关键字，那么可以少做四件事情：</strong></p>\n<ol>\n<li>不用创建临时对象，因为 new 会帮你做（你使用「this」就可以访问到临时对象）；</li>\n<li>不用绑定原型，因为 new 会帮你做(new 为了知道原型在哪，所以指定原型的名字 prototype);</li>\n<li>不用 return 临时对象，因为 new 会帮你做；</li>\n<li>不要给原型想名字了，因为 new 指定名字为 prototype。</li>\n</ol>\n<h4>这一次用 new 来写</h4>\n<pre class=\"prettyprint language-javascript\"><code>function 士兵(ID){\n  this.ID = ID\n  this.生命值 = 42\n}\n\n士兵.prototype = {\n  兵种:&quot;美国大兵&quot;,\n  攻击力:5,\n  行走:function(){ &#x2F;*走俩步的代码*&#x2F;},\n  奔跑:function(){ &#x2F;*狂奔的代码*&#x2F;  },\n  死亡:function(){ &#x2F;*Go die*&#x2F;    },\n  攻击:function(){ &#x2F;*糊他熊脸*&#x2F;   },\n  防御:function(){ &#x2F;*护脸*&#x2F;       }\n}\n\n&#x2F;&#x2F; 保存为文件：士兵.js\n然后是创建士兵（加了一个 new 关键字）：\n\nvar 士兵们 = []\nfor(var i=0; i&lt;100; i++){\n  士兵们.push(new 士兵(i))\n}\n\n兵营.批量制造(士兵们)\n</code></pre><p><strong>new 的作用，就是省那么几行代码。（也就是所谓的语法糖）</strong></p>\n<h4>注意 constructor 属性</h4>\n<p>new 操作为了记录「临时对象是由哪个函数创建的」，所以预先给「士兵.prototype」加了一个 constructor 属性：</p>\n<pre class=\"prettyprint language-javascript\"><code>士兵.prototype = {\n    constructor: 士兵\n};\n</code></pre><p>如果你重新对「士兵.prototype」赋值，那么这个 constructor 属性就没了，所以你应该这么写：</p>\n<pre class=\"prettyprint language-javascript\"><code>士兵.prototype.兵种 = &quot;美国大兵&quot;;\n士兵.prototype.攻击力 = 5;\n士兵.prototype.行走 = function() {\n    &#x2F;*走俩步的代码*&#x2F;\n};\n士兵.prototype.奔跑 = function() {\n    &#x2F;*狂奔的代码*&#x2F;\n};\n士兵.prototype.死亡 = function() {\n    &#x2F;*Go die*&#x2F;\n};\n士兵.prototype.攻击 = function() {\n    &#x2F;*糊他熊脸*&#x2F;\n};\n士兵.prototype.防御 = function() {\n    &#x2F;*护脸*&#x2F;\n};\n</code></pre><p>或者你也可以自己给 constructor 重新赋值：</p>\n<pre class=\"prettyprint language-javascript\"><code>士兵.prototype = {\n    constructor: 士兵,\n    兵种: &quot;美国大兵&quot;,\n    攻击力: 5,\n    行走: function() {\n        &#x2F;*走俩步的代码*&#x2F;\n    },\n    奔跑: function() {\n        &#x2F;*狂奔的代码*&#x2F;\n    },\n    死亡: function() {\n        &#x2F;*Go die*&#x2F;\n    },\n    攻击: function() {\n        &#x2F;*糊他熊脸*&#x2F;\n    },\n    防御: function() {\n        &#x2F;*护脸*&#x2F;\n    }\n};\n</code></pre><h3>四、继承</h3>\n<p><strong>继承的本质就是上面的讲的原型链</strong></p>\n<h4>1)借助构造函数实现继承</h4>\n<pre class=\"prettyprint language-javascript\"><code>function Parent1() {\n    this.name = &quot;parent1&quot;;\n}\n\nParent1.prototype.say = function() {};\n\nfunction Child1() {\n    Parent1.call(this);\n    this.type = &quot;child&quot;;\n}\n\nconsole.log(new Child1());\n</code></pre><p>打印结果：</p>\n<p><img src=\"https://image.fundebug.com/2019-02-10-06.png\" alt></p>\n<p>这个主要是借用 call 来改变 this 的指向，通过 call 调用 Parent ，此时 Parent 中的 this 是指 Child1。有个缺点，从打印结果看出 Child1 并没有 say 方法，所以这种只能继承父类的实例属性和方法，不能继承原型属性/方法。</p>\n<h4>2)借助原型链实现继承</h4>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;**\n * 借助原型链实现继承\n *&#x2F;\nfunction Parent2() {\n    this.name = &quot;parent2&quot;;\n    this.play = [1, 2, 3];\n}\n\nfunction Child2() {\n    this.type = &quot;child2&quot;;\n}\nChild2.prototype = new Parent2();\n\nconsole.log(new Child2());\n\nvar s1 = new Child2();\nvar s2 = new Child2();\n</code></pre><p>打印：</p>\n<p><img src=\"https://image.fundebug.com/2019-02-10-07.png\" alt></p>\n<p>通过一讲的，我们知道要共享莫些属性，需要 对象.<strong>proto</strong> = 父亲对象的.prototype,但实际上我们是不能直接 操作<strong>proto</strong>，这时我们可以借用 new 来做，所以\nChild2.prototype = new Parent2(); &lt;=&gt; Child2.prototype.<strong>proto</strong> = Parent2.prototype; 这样我们借助 new 这个语法糖，就可以实现原型链继承。但这里有个总是，如打印结果，我们给 s1.play 新增一个值 ，s2 也跟着改了。所以这个是原型链继承的缺点，原因是 s1.<strong>pro</strong> 和 s2.<strong>pro</strong>指向同一个地址即 父类的 prototype。</p>\n<h4>3)组合方式实现继承</h4>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;**\n * 组合方式\n *&#x2F;\n\nfunction Parent3() {\n    this.name = &quot;parent3&quot;;\n    this.play = [1, 2, 3];\n}\n\nParent3.prototype.say = function() {};\n\nfunction Child3() {\n    Parent3.call(this);\n    this.type = &quot;child3&quot;;\n}\n\nChild3.prototype = new Parent3();\n\nvar s3 = new Child3();\nvar s4 = new Child3();\ns3.play.push(4);\nconsole.log(new Child3());\nconsole.log(s3.play, s4.play);\n</code></pre><p>打印:</p>\n<p><img src=\"https://image.fundebug.com/2019-02-10-08.png\" alt></p>\n<p>将 1 和 2 两种方式组合起来，就可以解决 1 和 2 存在问题，这种方式为组合继承。这种方式有点缺点就是我实例一个对象的时， 父类 new 了两次，一次是 var s3 = new Child3()对应 Child3.prototype = new Parent3()还要 new 一次。</p>\n<h4>4)组合继承的优化 1</h4>\n<pre class=\"prettyprint language-javascript\"><code>function Parent4() {\n    this.name = &quot;parent4&quot;;\n    this.play = [1, 2, 3];\n}\n\nParent4.prototype.say = function() {};\n\nfunction Child4() {\n    Parent4.call(this);\n    this.type = &quot;child4&quot;;\n}\n\nChild4.prototype = Parent4.prototype;\n\nvar s5 = new Child4();\nvar s6 = new Child4();\n</code></pre><p>这边主要为 Child4.prototype = Parent4.prototype， 因为我们通过构造函数就可以拿到所有属性和实例的方法，那么现在我想继承父类的原型对象，所以你直接赋值给我就行，不用在去 new 一次父类。其实这种方法还是有问题的，如果我在控制台打印以下两句:</p>\n<p><img src=\"https://image.fundebug.com/2019-02-10-09.png\" alt></p>\n<p>从打印可以看出，此时我是没有办法区分一个对象 是直接 由它的子类实例化还是父类呢？我们还有一个方法判断来判断对象是否是类的实例，那就是用 constructor,我在控制台打印以下内容：</p>\n<p><img src=\"https://image.fundebug.com/2019-02-10-10.png\" alt></p>\n<p>咦，你会发现它指向的是父类 ，这显然不是我们想要的结果， 上面讲过我们 prototype 里面有一个 constructor, 而我们此时子类的 prototype 指向是 父类的 prototye ,而父类 prototype 里面的 contructor 当然是父类自己的，这个就是产生该问题的原因。</p>\n<h4>组合继承的优化 2</h4>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;**\n * 组合继承的优化2\n *&#x2F;\n\nfunction Parent5() {\n    this.name = &quot;parent4&quot;;\n    this.play = [1, 2, 3];\n}\n\nParent5.prototype.say = function() {};\n\nfunction Child5() {\n    Parent5.call(this);\n    this.type = &quot;child4&quot;;\n}\n\nChild5.prototype = Object.create(Parent5.prototype);\n</code></pre><p>这里主要使用<strong>Object.create()</strong>，它的作用是将对象继承到<strong>proto</strong>属性上。举个例子：</p>\n<pre class=\"prettyprint language-javascript\"><code>var test = Object.create({ x: 123, y: 345 });\nconsole.log(test); &#x2F;&#x2F;{}\nconsole.log(test.x); &#x2F;&#x2F;123\nconsole.log(test.__proto__.x); &#x2F;&#x2F;3\nconsole.log(test.__proto__.x === test.x); &#x2F;&#x2F;true\n</code></pre><p>那大家可能说这样解决了吗，其实没有解决,因为这时 Child5.prototype 还是没有自己的 constructor,它要找的话还是向自己的原型对象上找最后还是找到 Parent5.prototype, constructor 还是 Parent5 ,所以要给 Child5.prototype 写自己的 constructor:</p>\n<pre class=\"prettyprint language-javascript\"><code>Child5.prototype = Object.create(Parent5.prototype);\nChild5.prototype.constructor = Child5;\n</code></pre><h4>参考</h4>\n<ul>\n<li><a href=\"https://zhuanlan.zhihu.com/p/23090041?refer=study-fe\">什么是 JS 原型链？</a></li>\n<li><a href=\"https://zhuanlan.zhihu.com/p/23804247\">this 的值到底是什么？一次说清楚</a></li>\n<li><a href=\"https://zhuanlan.zhihu.com/p/23987456?refer=study-fe\">JS 的 new 到底是干什么的？</a></li>\n</ul>\n<h3>关于Fundebug</h3>\n<p><a href=\"https://www.fundebug.com/\">Fundebug</a>专注于JavaScript、微信小程序、微信小游戏、支付宝小程序、React Native、Node.js和Java线上应用实时BUG监控。 自从2016年双十一正式上线，Fundebug累计处理了10亿+错误事件，付费客户有Google、360、金山软件、百姓网等众多品牌企业。欢迎大家<a href=\"https://www.fundebug.com/team/create\">免费试用</a>！</p>\n<p><img src=\"https://static.fundebug.cn/wechat_slogan.png\" alt></p>\n</div>",
+      "title": "搞懂 JavaScript 继承原理",
+      "meta": {
+        "likeNum": 4,
+        "commentNum": 407,
+      },
+      "author_nickname": "Fundebug",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/26496557?v=4&s=120",
+      "author_id": ""
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>dotENV已经有很多模块，用得比较做的 dotenv，\n但是都是只支持一维的，我试着弄了个多维的，也就几十行代码：</p>\n<blockquote>\n<p>先放地址 <a href=\"https://github.com/captainblue2013/dotenvR\">https://github.com/captainblue2013/dotenvR</a></p>\n</blockquote>\n<hr>\n<h2>Install</h2>\n<pre class=\"prettyprint\"><code>npm install dotenvr --save\n</code></pre><h2>Usage</h2>\n<pre class=\"prettyprint\"><code>var config = require(&#x27;dotenvr&#x27;).load(); &#x2F;&#x2F;默认当前路径 .env \n&#x2F;&#x2F;var config = require(&#x27;dotenvr&#x27;).load(&#x27;&#x2F;path&#x2F;of&#x2F;your&#x2F;.env&#x27;);\n</code></pre><h2>Example</h2>\n<p>.env</p>\n<pre class=\"prettyprint\"><code> APP = demo\n A.B.C = 123\n</code></pre><p>var config = require(‘dotenvr’).load(); // also see process.env</p>\n<pre class=\"prettyprint\"><code> {\n     APP:&#x27;demo&#x27;,\n     A:{\n         B:{\n             C:123\n         }\n     }\n }</code></pre></div>",
+      "title": "最近在用 dotENV ，于是做了一个支持多层的轮子",
+      "meta": {
+        "likeNum": 4,
+        "commentNum": 3414,
+      },
+      "author_nickname": "captainblue2013",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3942299?v=4&s=120",
+      "author_id": ""
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>在看《JavaScript高级程序设计》，章节6.2.2中最后（147页）提供了一种构造函数定义方式，但作者自己又说有问题，但并未讲清楚问题是什么，所以请大家讲讲？</p>\n<pre class=\"prettyprint\"><code>function Person(name, age, job){\n this.name = name;\n this.age = age;\n this.job = job;\n this.sayName = sayName;\n}\nfunction sayName(){\n alert(this.name);\n}\nvar person1 = new Person(&quot;Nicholas&quot;, 29, &quot;Software Engineer&quot;);\nvar person2 = new Person(&quot;Greg&quot;, 27, &quot;Doctor&quot;);\nperson1.sayName===person2.sayName; &#x2F;&#x2F; true\n</code></pre><p>这段代码的原文评注如下：\n在这个例子中，我们把sayName()函数的定义转移到了构造函数外部。而在构造函数内部，我们\n将sayName 属性设置成等于全局的sayName 函数。这样一来，由于sayName 包含的是一个指向函数\n的指针，因此person1 和person2 对象就共享了在全局作用域中定义的同一个sayName()函数。这\n样做确实解决了两个函数做同一件事的问题，可是新问题又来了：<strong>在全局作用域中定义的函数实际上只\n能被某个对象调用，这让全局作用域有点名不副实。而更让人无法接受的是：如果对象需要定义很多方\n法，那么就要定义很多个全局函数，于是我们这个自定义的引用类型就丝毫没有封装性可言了。</strong></p>\n<p>有木有觉得粗体这段不知所云？</p>\n</div>",
+      "title": "《JavaScript高级程序设计》中的一个疑点",
+      "meta": {
+        "likeNum": 6,
+        "commentNum": 854,
+      },
+      "author_nickname": "JarvisQJ",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/15104950?v=4&s=120",
+      "author_id": ""
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><ul>\n<li><a href=\"http://canvas.bengbuzhangyue.xyz/love/dist/\">爱心闪烁效果</a></li>\n<li><a href=\"http://canvas.bengbuzhangyue.xyz/ballline/dist/\">简单的离子效果</a></li>\n<li><a href=\"http://canvas.bengbuzhangyue.xyz/simple_fireworks/dist/\">简单的烟花效果</a></li>\n<li><a href=\"http://canvas.bengbuzhangyue.xyz/simple_image_edit/dist/\">canvas实现图片裁切</a></li>\n<li><a href=\"http://canvas.bengbuzhangyue.xyz/BiuBiuBiu/dist/\">canvas射激光</a></li>\n<li><a href=\"http://canvas.bengbuzhangyue.xyz/paopao/dist/\">canvas实现鼠标跟踪动画</a></li>\n<li><a href=\"http://canvas.bengbuzhangyue.xyz/3d/dist/\">canvas实现3D文字</a></li>\n</ul>\n</div>",
+      "title": "最近学习canvas，做了一些效果的合集",
+      "meta": {
+        "likeNum": 4,
+        "commentNum": 898,
+      },
+      "author_nickname": "BengBu-YueZhang",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/24958677?v=4&s=120",
+      "author_id": ""
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>输入汉字拼音首字母,模糊查询数据,目前只有数据中预存拼音这一种方法么?比如数据库表中有name   pinyin2个字段\n\t里面存储数据 name:张三 pinyin:zhangsan,name:赵四 pinyin:zhaosi,查询输入zs,后台查询数据库pinyin这个字段,结果集为张三和赵四,就和高铁app上面查询车站那个搜索需求是一样的,主要前期设计数据库的时候没有设计pinyin这个字段,现在客户需求这个功能…有没有更好的办法解决呢?</p>\n</div>",
+      "title": "请教:输入汉字拼音首字母,模糊查询数据",
+      "meta": {
+        "likeNum": 5,
+        "commentNum": 321,
+      },
+      "author_nickname": "iori2882",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1480587?v=4&s=120",
+      "author_id": ""
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>我现在有一套多项目多页面的前端代码，所有的项目都共用基础库（vue、echarts等）、公共js（自己写的公共方法以及配置）。大致结构如下\n<img src=\"//static.cnodejs.org/Fn2a95Q-cNNM5mm86EXMrUf0oasG\" alt=\"image.png\"></p>\n<p>说明：demo和test分别是两个独立的多页面项目，但是共用基础库（lib）和公共js（util）。基础库是长久不变的，可以由所有项目公用，但是公共js是可能变化的，所以我希望在打包的时候，公共js能打包到每个项目里面，这个项目的多个页面使用这一个公共js。 另外一个项目的多个页面，使用另外的公共js。</p>\n<p>如下图，希望的结果是util.js在demo/js和test/js下各有一分，demo和test分别引用各自js/下的的uitl。\n<img src=\"//static.cnodejs.org/Fj4rTRhh-879q4ltMlkqMrOGR8FI\" alt=\"image.png\"></p>\n<p>这样我就可以在修改公共代码后，只上传dist/demo，来达到只更新demo项目下的公共js的目的。\nutil配置代码是这样的：请问大佬，这个util怎么才能配置成活的呢\n<img src=\"//static.cnodejs.org/FsJzOidkWfIRmLbpcAvTeYHJgmzu\" alt=\"image.png\"></p>\n</div>",
+      "title": "webpack4多页面多项目工程的公共js提取问题",
+      "meta": {
+        "likeNum": 3,
+        "commentNum": 625,
+      },
+      "author_nickname": "hejiaoshou",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/24504661?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>node的第三方模块中支持mysql schema的模块吗？像使用mongoose中的schema一样。</p>\n</div>",
+      "title": "node的第三方模块中支持mysql schema的模块吗？",
+      "meta": {
+        "likeNum": 0,
+        "commentNum": 165,
+      },
+      "author_nickname": "witlxx",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/25942898?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><h1>前言</h1>\n<p>转眼新年过了，开始了搬砖的日子。在这里给大家拜个晚年，送上一些小知识，希望大家好搬砖！</p>\n<h1>klg-tracer</h1>\n<p>链路追踪工具，base on <a href=\"https://github.com/midwayjs/pandora\">pandora</a></p>\n<h2>Installation</h2>\n<pre class=\"prettyprint language-bash\"><code>npm install klg-tracer\n</code></pre><p>Node.js &gt;= 8.2.1 required.</p>\n<h2>Features</h2>\n<p>Pandora 提供基于 OpenTracing 标准的链路追踪信息，在此基础上，klg-tracer 自定义了一些 tags，并支持将 tracer 信息写入 mongo。</p>\n<h2>QuickStart</h2>\n<h3>一、配合 Pandora 使用，自定义tags</h3>\n<p>TODO</p>\n<ol>\n<li>export 拓展好的类</li>\n<li>覆盖 Pandora 的默认配置</li>\n</ol>\n<h3>二、将 tracer 结果写入 Mongo</h3>\n<p>app.ts</p>\n<pre class=\"prettyprint language-js\"><code>import {TraceService, Tracer} from &#x27;klg-tracer&#x27;\n\nnew TraceService().registerHooks({\n    httpServer: {\n      useKoa:true, &#x2F;&#x2F; 在 koa 设置钩子，比直接在 http 层设置钩子稳定\n      &#x2F;&#x2F; 过滤器，只记录特定接口, 注意 return true 的才会被过滤\n      requestFilter: function (req) {\n        const urlParsed = url.parse(req.url, true);\n        return urlParsed.pathname.indexOf(&#x27;product&#x2F;&#x27;) === -1;\n      }\n    }\n  }).registerMongoReporter({\n    mongoUrl: config.database.mongodb[0].url,\n    collectionName: &#x27;tracer&#x27;\n  });\n\n</code></pre><p>完整的配置可以见 src/domain</p>\n<pre class=\"prettyprint language-typescript\"><code>interface TracerOptions {\n  httpServer?: {\n    recordGetParams?: boolean,    &#x2F;&#x2F; 是否记录 query\n    recordPostData?: boolean,     &#x2F;&#x2F; 是否记录 post data\n    recordResponse?: boolean,     &#x2F;&#x2F; 是否记录 response\n    requestFilter?: requestFilter,  &#x2F;&#x2F; 过滤器\n    interceptor?: interceptor       &#x2F;&#x2F; 中间件 TODO\n  },\n  httpClient?: {\n    enabled: boolean, options?: {\n      recordGetParams?: boolean,\n      recordPostData?: boolean,\n      recordResponse?: boolean\n    }\n  },\n  mongodb?: { enabled: boolean, options?: any }\n}\n</code></pre><p>启动你的 Web 服务并访问，相关的请求信息将会写入 tracer 表中。</p>\n<p>Search:</p>\n<pre class=\"prettyprint language-js\"><code>﻿db.tracer.find({name : &#x27;http-server&#x27;}).sort({_id : -1})\n</code></pre><p>Result:</p>\n<pre class=\"prettyprint language-js\"><code>{\n    &quot;_id&quot; : ObjectId(&quot;5ad99bd3f29cf14de64516b3&quot;),\n    &quot;tags&quot; : {\n        &quot;httpMethod&quot; : &quot;POST&quot;,\n        &quot;url&quot; : &quot;&#x2F;api&#x2F;v1&#x2F;account&#x2F;register&quot;,\n        &quot;data&quot; : {\n            &quot;userId&quot; : &quot;5527da927855af35354c39eb&quot;,\n            &quot;userRole&quot; : &quot;INVESTOR&quot;\n        },\n        &quot;response&quot; : {\n            &quot;code&quot; : 0,\n            &quot;message&quot; : &quot;success&quot;,\n            &quot;data&quot; : {\n                &quot;html&quot; : &quot;html&quot;\n            }\n        }\n    },\n    &quot;traceId&quot; : &quot;6e11fe95c2035a7a&quot;,\n    &quot;name&quot; : &quot;http-server&quot;,\n    &quot;timestamp&quot; : 1524210643694.0,\n    &quot;duration&quot; : 152,\n    &quot;createdAt&quot; : ISODate(&quot;2018-04-20T07:50:43.874Z&quot;),\n    &quot;updatedAt&quot; : ISODate(&quot;2018-04-20T07:50:43.874Z&quot;),\n    &quot;__v&quot; : 0\n}\n</code></pre><h3>Tracer tags</h3>\n<ol>\n<li>http server</li>\n</ol>\n<ul>\n<li>http.method</li>\n<li>http.path  // path</li>\n<li>http.query    // query string</li>\n<li>http.data  // post body, only json</li>\n<li>http.response</li>\n</ul>\n<ol>\n<li>http client</li>\n</ol>\n<ul>\n<li>http.method</li>\n<li>http.url  // path</li>\n<li>http.hostname  // send to where</li>\n<li>http.port</li>\n<li>http.query</li>\n<li>http.data</li>\n<li>http.response</li>\n<li>http.response_size</li>\n<li>http.status_code</li>\n<li>http.error_code</li>\n</ul>\n<ol>\n<li>mongo\ntodo</li>\n</ol>\n<h2>Test</h2>\n<pre class=\"prettyprint language-bash\"><code>$ npm i\n$ npm test\n</code></pre><h2>How it works</h2>\n<h3>tracer</h3>\n<p>implements session with <a href=\"https://nodejs.org/api/async_hooks.html\">async_hooks</a> and <a href=\"https://github.com/Jeff-Lewis/cls-hooked\">cls-hooked</a></p>\n<h3>hook</h3>\n<p>serve : hack http createServer method, register listener.</p>\n<p>http-client : hack http request method, register listener.</p>\n<h2>ChangeLog</h2>\n<p>3.0.0</p>\n<ul>\n<li>基于 Pandorajs 重做，目前只提供 http-server http-client mongo 三个位置的监听</li>\n</ul>\n<p>1.2.0</p>\n<ul>\n<li>koa-server hook add requestFilter options</li>\n</ul>\n<p>1.1.0</p>\n<ul>\n<li>koa-server hook add intercept options</li>\n</ul>\n<p>1.0.3</p>\n<ul>\n<li>http-client hook trace request parameters and response</li>\n</ul>\n<p>1.0.0</p>\n<ul>\n<li>add http-server koa-server hook</li>\n<li>add http-client hook</li>\n<li>add mongo report</li>\n</ul>\n<h2>常见问题</h2>\n<p>1 thenable 函数会 break cls 的上下文，像 mongoose 和 superagent 都是在 prototype 里添加 then function 来支持 Promise 的，所有都会有这个问题。\n目前只能通过改变写法来避免这个问题，例如：</p>\n<p>break session</p>\n<pre class=\"prettyprint language-js\"><code>await User.findOne({})\n</code></pre><p>work</p>\n<pre class=\"prettyprint language-js\"><code>await User.findOne({}).then()\n</code></pre><p>详情见此 issue <a href=\"https://github.com/midwayjs/pandora/issues/221\">https://github.com/midwayjs/pandora/issues/221</a></p>\n<p>2 mongodb nodejs driver 3.0 版本升级了 apm 的实现，Pandorajs 还未支持\n详情见此 issue <a href=\"https://github.com/midwayjs/pandora/issues/239\">https://github.com/midwayjs/pandora/issues/239</a></p>\n<hr>\n<p>著作权归本文作者所有，未经授权，请勿转载，谢谢。</p>\n</div>",
+      "title": "AI考拉技术分享-Node基础架构专题（三）",
+      "meta": {
+        "likeNum": 0,
+        "commentNum": 217,
+      },
+      "author_nickname": "kalengo",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/8817810?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p><img src=\"//static.cnodejs.org/FmrUNUrOP4SEOWrAMXQScFmOYqfR\" alt=\"js_closure.png\">\n<strong>摘要：</strong> 理解JS闭包。</p>\n<ul>\n<li>原文：<a href=\"https://segmentfault.com/a/1190000017136436\">我从来不理解JavaScript闭包，直到有人这样向我解释它…</a></li>\n<li>作者：<a href=\"https://segmentfault.com/a/1190000017794020\">前端小智</a></li>\n</ul>\n<p><strong><a href=\"https://www.fundebug.com/\">Fundebug</a>经授权转载，版权归原作者所有。</strong></p>\n<p>正如标题所述，JavaScript闭包对我来说一直有点神秘,看过很多闭包的文章，在工作使用过闭包，有时甚至在项目中使用闭包，但我确实是这是在使用闭包的知识。</p>\n<p>最近看国外的一些文章，终于，有人用于一种让我明白方式对闭包进行了解释，我将在本文中尝试使用这种方法来解释闭包。</p>\n<h3>准备</h3>\n<p>在理解闭包之前，有个重要的概念需要先了解一下，就是 js 执行上下文。</p>\n<p>这篇<a href=\"http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/\">文章</a>是执行上下文 很不错的入门教程，文章中提到：</p>\n<blockquote>\n<p>当代码在JavaScript中运行时，执行代码的环境非常重要，并将概括为以下几点：</p>\n<p><strong>全局代码</strong>——第一次执行代码的默认环境。</p>\n<p><strong>函数代码</strong>——当执行流进入函数体时。</p>\n<p>(…) —— 我们当作 执行上下文 是当前代码执行的一个环境与范围。</p>\n</blockquote>\n<p>换句话说，当我们启动程序时，我们从全局执行上下文中开始。一些变量是在全局执行上下文中声明的。我们称之为全局变量。当程序调用一个函数时，会发生什么?</p>\n<p>以下几个步骤：</p>\n<ul>\n<li>JavaScript创建一个新的执行上下文，我们叫作本地执行上下文。</li>\n<li>这个本地执行上下文将有它自己的一组变量，这些变量将是这个执行上下文的本地变量。</li>\n<li>新的执行上下文被推到到执行堆栈中。可以将执行堆栈看作是一种保存程序在其执行中的位置的容器。</li>\n</ul>\n<p>函数什么时候结束?当它遇到一个return语句或一个结束括号}。</p>\n<p>当一个函数结束时，会发生以下情况:</p>\n<ul>\n<li>这个本地执行上下文从执行堆栈中弹出。</li>\n<li>函数将返回值返回调用上下文。调用上下文是调用这个本地的执行上下文，它可以是全局执行上下文，也可以是另外一个本地的执行上下文。这取决于调用执行上下文来处理此时的返回值，返回的值可以是一个对象、一个数组、一个函数、一个布尔值等等，如果函数没有return语句，则返回undefined。</li>\n<li>这个本地执行上下文被销毁，销毁是很重要，这个本地执行上下文中声明的所有变量都将被删除，不在有变量，这个就是为什么 称为本地执行上下文中自有的变量。</li>\n</ul>\n<h4>基础的例子</h4>\n<p>在讨论闭包之前，让我们看一下下面的代码：</p>\n<pre class=\"prettyprint language-javascript\"><code>1: let a = 3\n2: function addTwo(x) {\n3:   let ret = x + 2\n4:   return ret\n5: }\n6: let b = addTwo(a)\n7: console.log(b)\n</code></pre><p>为了理解JavaScript引擎是如何工作的，让我们详细分析一下：</p>\n<ul>\n<li>在第1行，我们在全局执行上下文中声明了一个新变量a，并将赋值为3。</li>\n<li>接下来就变得棘手了，第2行到第5行实际上是在一起的。这里发生了什么? 我们在全局执行上下文中声明了一个名为<code>addTwo</code>的新变量,我们给它分配了什么?一个函数定义。两个括号{}之间的任何内容都被分配给<code>addTwo</code>，函数内部的代码没有被求值，没有被执行，只是存储在一个变量中以备将来使用。</li>\n<li>现在我们在第6行。它看起来很简单，但是这里有很多东西需要拆开分析。首先，我们在全局执行上下文中声明一个新变量，并将其标记为<code>b</code>，变量一经声明，其值即为undefined。</li>\n<li>接下来，仍然在第6行，我们看到一个赋值操作符。我们准备给变量<code>b</code>赋一个新值，接下来我们看到一个函数被调用。当您看到一个变量后面跟着一个圆括号(…)时，这就是调用函数的信号，接着，每个函数都返回一些东西(值、对象或 undefined)，无论从函数返回什么，都将赋值给变量<code>b</code>。</li>\n<li>但是首先我们需要调用标记为<code>addTwo</code>的函数。JavaScript将在其全局执行上下文内存中查找名为<code>addTwo</code>的变量。噢，它找到了一个，它是在步骤2(或第2 - 5行)中定义的。变量<code>add2</code>包含一个函数定义。注意，变量<code>a</code>作为参数传递给函数。JavaScript在全局执行上下文内存中搜索变量<code>a</code>，找到它，发现它的值是3，并将数字3作为参数传递给函数，准备好执行函数。</li>\n<li>现在执行上下文将切换,创建了一个新的本地执行上下文，我们将其命名为“addTwo执行上下文”，执行上下文被推送到调用堆栈上。在addTwo执行上下文中，我们要做的第一件事是什么?</li>\n<li>你可能会说，“在addTwo执行上下文中声明了一个新的变量ret”，这是不对的。正确的答案是，我们需要先看函数的参数。在addTwo执行上下文中声明一个新的变量`x``，因为值3是作为参数传递的，所以变量x被赋值为3。</li>\n<li>下一步是:在addTwo执行上下文中声明一个新的变量<code>ret</code>。它的值被设置为 undefined(第三行)。</li>\n<li>仍然是第3行，需要执行一个相加操作。首先我们需要<code>x</code>的值，JavaScript会寻找一个变量<code>x</code>，它会首先在<code>addTwo</code>执行上下文中寻找，找到了一个值为3。第二个操作数是数字2。两个相加结果为5就被分配给变量<code>ret</code>。</li>\n<li>第4行，我们返回变量<code>ret</code>的内容，在addTwo执行上下文中查找，找到值为5，返回，函数结束。</li>\n<li>第4 - 5行，函数结束。addTwo执行上下文被销毁，变量<code>x</code>和<code>ret</code>被消去了，它们已经不存在了。addTwo执行上下文从调用堆栈中弹出，返回值返回给调用上下文，在这种情况下，调用上下文是全局执行上下文，因为函数<code>addTw</code>o是从全局执行上下文调用的。</li>\n<li>现在我们继续第4步的内容，返回值5被分配给变量<code>b</code>，程序仍然在第6行。</li>\n<li>在第7行，<code>b</code>的值 5 被打印到控制台了。</li>\n</ul>\n<p>对于一个非常简单的程序，这是一个非常冗长的解释，我们甚至还没有涉及闭包。但肯定会涉及的，不过首先我们得绕一两个弯。</p>\n<h3>词法作用域（Lexical scope）</h3>\n<p>我们需要理解词法作用域的一些知识。请看下面的例子：</p>\n<pre class=\"prettyprint language-javascript\"><code>1: let val1 = 2\n2: function multiplyThis(n) {\n3:   let ret = n * val1\n4:   return ret\n5: }\n6: let multiplied = multiplyThis(6)\n7: console.log(&#x27;example of scope:&#x27;, multiplied)\n</code></pre><p>这里想说明，我们在函数执行上下文中有变量，在全局执行上下文中有变量。JavaScript的一个复杂之处在于它如何查找变量，如果在函数执行上下文中找不到变量，它将在调用上下文中寻找它，如果在它的调用上下文中没有找到，就一直往上一级，直到它在全局执行上下文中查找为止。(如果最后找不到，它就是 undefined)。</p>\n<p>下面列出向个步骤来解释一下（如果你已经熟悉了，请跳过）：</p>\n<ul>\n<li>在全局执行上下文中声明一个新的变量<code>val1</code>，并将其赋值为2。</li>\n<li>行2 - 5，声明一个新的变量 <code>multiplyThis</code>，并给它分配一个函数定义。</li>\n<li>第六行，声明一个在全局执行上下文 <code>multiplied</code> 新变量。</li>\n<li>从全局执行上下文内存中查找变量<code>multiplyThis</code>，并将其作为函数执行，传递数字 6 作为参数。</li>\n<li>新函数调用(创建新执行上下文），创建一个新的 <code>multiplyThis</code> 函数执行上下文。</li>\n<li>在 <code>multiplyThis</code> 执行上下文中，声明一个变量n并将其赋值为6</li>\n<li>第 3 行。在<code>multiplyThis</code>执行上下文中，声明一个变量<code>ret</code>。</li>\n<li>继续第 3 行。对两个操作数 n 和 val1 进行乘法运算.在<code>multiplyThis</code>执行上下文中查找变量 <code>n</code>。我们在步骤6中声明了它,它的内容是数字6。在<code>multiplyThis</code>执行上下文中查找变量<code>val1</code>。<code>multiplyThis</code>执行上下文没有一个标记为 val1 的变量。我们向调用上下文查找，调用上下文是全局执行上下文，在全局执行上下文中寻找 <code>val1</code>。哦，是的、在那儿，它在步骤1中定义，数值是2。</li>\n<li>继续第 3 行。将两个操作数相乘并将其赋值给<code>ret</code>变量，6 * 2 = 12，ret现在值为 12。</li>\n<li>返回<code>ret</code>变量，销毁<code>multiplyThis</code>执行上下文及其变量 <code>ret</code> 和 <code>n</code> 。变量 <code>val1</code> 没有被销毁，因为它是全局执行上下文的一部分。</li>\n<li>回到第6行。在调用上下文中，数字 12 赋值给 <code>multiplied</code> 的变量。</li>\n<li>最后在第7行，我们在控制台中打印 <code>multiplied</code> 变量的值</li>\n</ul>\n<p>在这个例子中，我们需要记住一个函数可以访问在它的调用上下文中定义的变量，这个就是<strong>词法作用域（Lexical scope）</strong>。</p>\n<h3>返回函数的函数</h3>\n<p>在第一个例子中，函数<code>addTwo</code>返回一个数字。请记住，函数可以返回任何东西。让我们看一个返回函数的函数示例，因为这对于理解闭包非常重要。看粟子：</p>\n<pre class=\"prettyprint language-javascript\"><code> 1: let val = 7\n 2: function createAdder() {\n 3:   function addNumbers(a, b) {\n 4:     let ret = a + b\n 5:     return ret\n 6:   }\n 7:   return addNumbers\n 8: }\n 9: let adder = createAdder()\n10: let sum = adder(val, 8)\n11: console.log(&#x27;example of function returning a function: &#x27;, sum)\n</code></pre><p>让我们回到分步分解：</p>\n<ul>\n<li>第一行。我们在全局执行上下文中声明一个变量<code>val</code>并赋值为 7。</li>\n<li>行2 - 8。我们在全局执行上下文中声明了一个名为 <code>createAdder</code> 的变量，并为其分配了一个函数定义。第3至7行描述了上述函数定义，和以前一样，在这一点上，我们没有直接讨论这个函数。我们只是将函数定义存储到那个变量(<code>createAdder</code>)中。</li>\n<li>第9行。我们在全局执行上下文中声明了一个名为 <code>adder</code> 的新变量，暂时，值为 undefined。</li>\n<li>第9行。我们看到括号()，我们需要执行或调用一个函数，查找全局执行上下文的内存并查找名为<code>createAdder</code> 的变量，它是在步骤2中创建的。好吧，我们调用它。</li>\n<li>调用函数时，执行到第2行。创建一个新的<code>createAdder</code>执行上下文。我们可以在<code>createAdder</code>的执行上下文中创建自有变量。js 引擎将<code>createAdder</code>的上下文添加到调用堆栈。这个函数没有参数，让我们直接跳到它的主体部分.</li>\n<li>第 3 - 6 行。我们有一个新的函数声明，我们在<code>createAdder</code>执行上下文中创建一个变量addNumbers。这很重要，<code>addnumber</code>只存在于<code>createAdder</code>执行上下文中。我们将函数定义存储在名为 `addNumbers`` 的自有变量中。</li>\n<li>在第7行，我们返回变量<code>addNumbers</code>的内容。js引擎查找一个名为<code>addNumbers</code>的变量并找到它，这是一个函数定义。好的，函数可以返回任何东西，包括函数定义。我们返<code>addNumbers</code>的定义。第4行和第5行括号之间的内容构成该函数定义。</li>\n<li>返回时，<code>createAdder</code>执行上下文将被销毁。<code>addNumbers</code> 变量不再存在。但<code>addNumbers</code>函数定义仍然存在，因为它返回并赋值给了adder 变量。</li>\n<li>第10行。我们在全局执行上下文中定义了一个新的变量 <code>sum</code>，先负值为 undefined;</li>\n<li>接下来我们需要执行一个函数。哪个函数?是名为<code>adder</code>变量中定义的函数。我们在全局执行上下文中查找它，果然找到了它，这个函数有两个参数。</li>\n<li>让我们查找这两个参数，第一个是我们在步骤1中定义的变量<code>val</code>，它表示数字7，第二个是数字8。</li>\n<li>现在我们要执行这个函数，函数定义概述在第3-5行，因为这个函数是匿名，为了方便理解，我们暂且叫它<code>adder</code>吧。这时创建一个<code>adder</code>函数执行上下文，在<code>adder</code>执行上下文中创建了两个新变量 <code>a</code> 和 <code>b</code>。它们分别被赋值为 7 和 8，因为这些是我们在上一步传递给函数的参数。</li>\n<li>第 4 行。在<code>adder</code>执行上下文中声明了一个名为<code>ret</code>的新变量,</li>\n<li>第 4 行。将变量<code>a</code>的内容和变量<code>b</code>的内容相加得15并赋给ret变量。</li>\n<li><code>ret</code>变量从该函数返回。这个匿名函数执行上下文被销毁，从调用堆栈中删除，变量<code>a</code>、<code>b</code>和<code>ret</code>不再存在。</li>\n<li>返回值被分配给我们在步骤9中定义的<code>sum</code>变量。</li>\n<li>我们将<code>sum</code>的值打印到控制台。</li>\n<li>如预期，控制台将打印15。我们在这里确实经历了很多困难，我想在这里说明几点。首先，函数定义可以存储在变量中，函数定义在程序调用之前是不可见的。其次，每次调用函数时，都会(临时)创建一个本地执行上下文。当函数完成时，执行上下文将消失。函数在遇到return或右括号}时执行完成。</li>\n</ul>\n<p><strong>码部署后可能存在的BUG没法实时知道，事后为了解决这些BUG，花了大量的时间进行log 调试，这边顺便给大家推荐一个好用的BUG监控工具 <a href=\"https://www.fundebug.com/?utm_source=xiaozhi\">Fundebug</a>。</strong></p>\n<h3>最后,一个闭包</h3>\n<p>看看下面的代码，并试着弄清楚会发生什么。</p>\n<pre class=\"prettyprint language-javascript\"><code> 1: function createCounter() {\n 2:   let counter = 0\n 3:   const myFunction = function() {\n 4:     counter = counter + 1\n 5:     return counter\n 6:   }\n 7:   return myFunction\n 8: }\n 9: const increment = createCounter()\n10: const c1 = increment()\n11: const c2 = increment()\n12: const c3 = increment()\n13: console.log(&#x27;example increment&#x27;, c1, c2, c3)\n</code></pre><p>现在，我们已经从前两个示例中掌握了它的诀窍，让我们按照预期的方式快速执行它：</p>\n<ul>\n<li>行1 - 8。我们在全局执行上下文中创建了一个新的变量<code>createCounter</code>，并赋值了一个的函数定义。</li>\n<li>第9行。我们在全局执行上下文中声明了一个名为<code>increment</code>的新变量。</li>\n<li>第9行。我们需要调用<code>createCounter</code>函数并将其返回值赋给<code>increment</code>变量。</li>\n<li>行1 - 8。调用函数，创建新的本地执行上下文。</li>\n<li>第2行。在本地执行上下文中，声明一个名为<code>counter</code>的新变量并赋值为 0;</li>\n<li>行3 - 6。声明一个名为<code>myFunction</code>的新变量，变量在本地执行上下文中声明,变量的内容是为第4行和第5行所定义。</li>\n<li>第7行。返回<code>myFunction</code>变量的内容，删除本地执行上下文。变量<code>myFunction</code>和<code>counter</code>不再存在。此时控制权回到了调用上下文。</li>\n<li>第9行。在调用上下文(全局执行上下文)中，<code>createCounter</code>返回的值赋给了<code>increment</code>，变量<code>increment</code>现在包含一个函数定义内容为<code>createCounter</code>返回的函数。它不再标记为<code>myFunction``，但它的定义是相同的。在全局上下文中，它是的标记为</code>labeledincrement`。</li>\n<li>第10行。声明一个新变量(c1)。</li>\n<li>继续第10行。查找<code>increment</code>变量，它是一个函数并调用它。它包含前面返回的函数定义，如第4-5行所定义的。</li>\n<li>创建一个新的执行上下文。没有参数。开始执行函数。</li>\n<li>第4行。counter=counter + 1。在本地执行上下文中查找<code>counter</code>变量。我们只是创建了那个上下文，从来没有声明任何局部变量。让我们看看全局执行上下文。这里也没有<code>counter</code>变量。Javascript会将其计算为counter = undefined + 1，声明一个标记为<code>counter</code>的新局部变量，并将其赋值为number 1，因为undefined被当作值为 0。</li>\n<li>第5行。我们变量<code>counter</code>的值(1)，我们销毁本地执行上下文和<code>counter</code>变量。</li>\n<li>回到第10行。返回值(1)被赋给c1。</li>\n<li>第11行。重复步骤10-14，c2也被赋值为1。</li>\n<li>第12行。重复步骤10-14，c3也被赋值为1。</li>\n<li>第13行。我们打印变量c1 c2和c3的内容。</li>\n</ul>\n<p>你自己试试，看看会发生什么。你会将注意到，它并不像从我上面的解释中所期望的那样记录1,1,1。而是记录1,2,3。这个是为什么?</p>\n<p>不知怎么滴，<code>increment</code>函数记住了那个<code>cunter</code>的值。这是怎么回事?</p>\n<p><code>counter</code>是全局执行上下文的一部分吗?尝试 console.log(counter)，得到undefined的结果,显然不是这样的。</p>\n<p>也许，当你调用<code>increment</code>时，它会以某种方式返回它创建的函数(createCounter)?这怎么可能呢?变量<code>increment</code>包含函数定义，而不是函数的来源，显然也不是这样的。</p>\n<p>所以一定有另一种机制。<strong>闭包</strong>，我们终于找到了，丢失的那块。</p>\n<p>它是这样工作的，无论何时声明新函数并将其赋值给变量，都要存储函数定义和闭包。闭包包含在函数创建时作用域中的所有变量，它类似于背包。函数定义附带一个小背包，它的包中存储了函数定义创建时作用域中的所有变量。</p>\n<p>所以我们上面的解释都是错的，让我们再试一次，但是这次是正确的。</p>\n<pre class=\"prettyprint language-javascript\"><code> 1: function createCounter() {\n 2:   let counter = 0\n 3:   const myFunction = function() {\n 4:     counter = counter + 1\n 5:     return counter\n 6:   }\n 7:   return myFunction\n 8: }\n 9: const increment = createCounter()\n10: const c1 = increment()\n11: const c2 = increment()\n12: const c3 = increment()\n13: console.log(&#x27;example increment&#x27;, c1, c2, c3)\n</code></pre><ul>\n<li>同上， 行1 - 8。我们在全局执行上下文中创建了一个新的变量createCounter，它得到了指定的函数定义。</li>\n<li>同上，第9行。我们在全局执行上下文中声明了一个名为<code>increment</code>的新变量。</li>\n<li>同上，第9行。我们需要调用<code>createCounter</code>函数并将其返回值赋给<code>increment</code>变量。</li>\n<li>同上，行1 - 8。调用函数，创建新的本地执行上下文。</li>\n<li>同上，第2行。在本地执行上下文中，声明一个名为<code>counter</code>的新变量并赋值为 0 。</li>\n<li>行3 - 6。声明一个名为<code>myFunction</code>的新变量，变量在本地执行上下文中声明,变量的内容是另一个函数定义。如第4行和第5行所定义，现在我们还创建了一个闭包，并将其作为函数定义的一部分。闭包包含作用域中的变量，在本例中是变量<code>counter</code>(值为0)。</li>\n<li>第7行。返回<code>myFunction</code>变量的内容,删除本地执行上下文。<code>myFunction</code>和<code>counter</code>不再存在。控制权交给了调用上下文，我们返回函数定义和它的闭包，闭包中包含了创建它时在作用域内的变量。</li>\n<li>第9行。在调用上下文(全局执行上下文)中，<code>createCounter</code>返回的值被指定为<code>increment</code>，变量<code>increment</code>现在包含一个函数定义(和闭包),由createCounter返回的函数定义,它不再标记为<code>myFunction</code>，但它的定义是相同的,在全局上下文中，称为<code>increment</code>。</li>\n<li>第10行。声明一个新变量(c1)。</li>\n<li>继续第10行。查找变量<code>increment</code>，它是一个函数，调用它。它包含前面返回的函数定义,如第4-5行所定义的。(它还有一个带有变量的闭包)。</li>\n<li>创建一个新的执行上下文，没有参数，开始执行函数。</li>\n<li>第4行。counter = counter + 1，寻找变量 <code>counter</code>，在查找本地或全局执行上下文之前，让我们检查一下闭包，瞧，闭包包含一个名为<code>counter</code>的变量，其值为0。在第4行表达式之后，它的值被设置为1。它再次被储存在闭包里，闭包现在包含值为1的变量 <code>counter</code>。</li>\n<li>第5行。我们返回<code>counter的值</code>，销毁本地执行上下文。</li>\n<li>回到第10行。返回值(1)被赋给变量<code>c1</code>。</li>\n<li>第11行。我们重复步骤10-14。这一次，在闭包中此时变量<code>counter</code>的值是1。它在第12步设置的，它的值被递增并以2的形式存储在递增函数的闭包中,c2被赋值为2。</li>\n<li>第12行。重复步骤10-14,<code>c3</code>被赋值为3。</li>\n<li>第13行。我们打印变量c1 c2和c3的值。</li>\n</ul>\n<p>您可能会问，是否有任何函数具有闭包，甚至是在全局范围内创建的函数?答案是肯定的。在全局作用域中创建的函数创建闭包，但是由于这些函数是在全局作用域中创建的，所以它们可以访问全局作用域中的所有变量，闭包的概念并不重要。</p>\n<p>当函数返回函数时，闭包的概念就变得更加重要了。返回的函数可以访问不属于全局作用域的变量，但它们仅存在于其闭包中。</p>\n<h3>闭包不是那么简单</h3>\n<p>有时候闭包在你甚至没有注意到它的时候就会出现，你可能已经看到了我们称为部分应用程序的示例，如下面的代码所示：</p>\n<pre class=\"prettyprint language-javascript\"><code>let c = 4\nconst addX = x =&gt; n =&gt; n + x\nconst addThree = addX(3)\nlet d = addThree(c)\nconsole.log(&#x27;example partial application&#x27;, d)\n</code></pre><p>如果箭头函数让您感到困惑，下面是同样效果：</p>\n<pre class=\"prettyprint language-javascript\"><code>let c = 4\nfunction addX(x) {\n  return function(n) {\n     return n + x\n  }\n}\nconst addThree = addX(3)\nlet d = addThree(c)\nconsole.log(&#x27;example partial application&#x27;, d)\n</code></pre><p>我们声明一个能用加法函数<code>addX</code>，它接受一个参数(x)并返回另一个函数。返回的函数还接受一个参数并将其添加到变量<code>x</code>中。</p>\n<p>变量<code>x</code>是闭包的一部分，当变量<code>addThree</code>在本地上下文中声明时，它被分配一个函数定义和一个闭包，闭包包含变量x。</p>\n<p>所以当<code>addThree</code>被调用并执行时，它可以从闭包中访问变量<code>x</code>以及为参数传递变量<code>n</code>并返回两者的和 7。</p>\n<h3>总结</h3>\n<p>我将永远记住闭包的方法是通过背包的类比。当一个函数被创建并传递或从另一个函数返回时，它会携带一个背包。背包中是函数声明时作用域内的所有变量。</p>\n<h3>参考</h3>\n<ul>\n<li><a href=\"https://blog.fundebug.com/2017/07/31/javascript-closure/\">解密JavaScript闭包</a></li>\n<li><a href=\"https://blog.fundebug.com/2017/07/17/10-javascript-difficulties/\">10个JavaScript难点</a></li>\n</ul>\n<h3>关于Fundebug</h3>\n<p><a href=\"https://www.fundebug.com/\">Fundebug</a>专注于JavaScript、微信小程序、微信小游戏、支付宝小程序、React Native、Node.js和Java线上应用实时BUG监控。 自从2016年双十一正式上线，Fundebug累计处理了10亿+错误事件，付费客户有Google、360、金山软件、百姓网等众多品牌企业。欢迎大家<a href=\"https://www.fundebug.com/team/create\">免费试用</a>！</p>\n<p><img src=\"https://static.fundebug.cn/wechat_slogan.png\" alt></p>\n</div>",
+      "title": "我从来不理解JavaScript闭包，直到有人这样向我解释它...",
+      "meta": {
+        "likeNum": 0,
+        "commentNum": 565,
+      },
+      "author_nickname": "Fundebug",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/26496557?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>要怎么去学习</p>\n</div>",
+      "title": "如何学习angular",
+      "meta": {
+        "likeNum": 14,
+        "commentNum": 1332,
+      },
+      "author_nickname": "hhffhh",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3991376?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p><a href=\"http://uyi2.com\">网盘下载地址</a>\n<img src=\"http://static.vue-js.com/FkCSj9gakP2tIdjc0Ha7GZHuJvrx\" alt=\"image.png\"></p>\n</div>",
+      "title": "慕课网付费视频免费开放，定期更新。",
+      "meta": {
+        "likeNum": 1,
+        "commentNum": 390,
+      },
+      "author_nickname": "xiaozhimn",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/4102025?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><pre class=\"prettyprint language-vue\"><code>&lt;template&gt;\n  &lt;div class=&quot;container&quot;&gt;\n    &lt;div class=&quot;content&quot;&gt;\n      &lt;router-view&gt;&lt;&#x2F;router-view&gt;\n    &lt;&#x2F;div&gt;\n  &lt;&#x2F;div&gt;\n&lt;&#x2F;template&gt;\n\n&lt;script&gt;\n  import VueRouter from &#x27;vue-router&#x27;;\n  import PostList from &#x27;.&#x2F;posts&#x27;;\n\n  export default {\n    props: [&#x27;outside&#x27;],\n    router: new VueRouter({\n      mode: &#x27;history&#x27;,\n      routes: [{\n        path: &#x27;&#x2F;&#x27;,\n        component: PostList,\n        name: &#x27;post_index&#x27;,\n        props: {outside: outside}\n      }]\n    })\n  };\n&lt;&#x2F;script&gt;\n</code></pre><p>本身是个组件，请问我要怎么在这里把<code>outside</code>的参数传给<code>PostList</code>这个组件</p>\n</div>",
+      "title": "问一个关于Vue路由初始化时传默认参数的问题",
+      "meta": {
+        "likeNum": 1,
+        "commentNum": 202,
+      },
+      "author_nickname": "jiyarong",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/8100962?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>反面例子1：</p>\n<pre class=\"prettyprint\"><code>function abc(a: string, b: number): void;\nfunction abc(a: string): void;\nfunction abc(a: any, b:any): void {\n\tif (typeof b === &#x27;number&#x27;){}\n\telse {}\n}\nabc.someAttr = ()=&gt;{};\n</code></pre><p>反面例子2：</p>\n<pre class=\"prettyprint\"><code>interface IAbc {\n\t(a: string, b: number): void;\n\t(a: string): void;\n\tsomeAttr: ()=&gt;void;\n}\nlet abc: IAbc = (a: any, b:any) =&gt; {\n\tif (typeof b === &#x27;number&#x27;){}\n\telse {}\n}\nabc.someAttr = ()=&gt;{};\n</code></pre><p>现在这样凑合着：</p>\n<pre class=\"prettyprint\"><code>interface IAbc {\n\t(a: string, b: number): void;\n\t(a: string): void;\n\tsomeAttr?: ()=&gt;void; &#x2F;&#x2F; 加了个问号\n}\nlet abc: IAbc = (a: any, b?:any) =&gt; {\n\tif (typeof b === &#x27;number&#x27;){}\n\telse {}\n}\nabc.someAttr = ()=&gt;{};\n</code></pre><p>请问有人知道正确手法吗？</p>\n</div>",
+      "title": "TypeScript 中应如何声明一个函数，之后给它添加静态属性？",
+      "meta": {
+        "likeNum": 22,
+        "commentNum": 2998,
+      },
+      "author_nickname": "xyzingh",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/32507398?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>Vscode编辑器用中Angular7提示工具下载量马上达到750万，这意味这说什么？</p>\n<p>说实话Angular7.x相比React vue有更快的编译速度、更快的运行速度。难道王者归来。</p>\n<p><strong>Angular7入门视频教程网盘免费下</strong>：   <a href=\"https://pan.baidu.com/s/1dTItz3tEnP0GxPcExfH68g\">https://pan.baidu.com/s/1dTItz3tEnP0GxPcExfH68g</a></p>\n<p><img src=\"//static.cnodejs.org/Fp_oe68CGoTo4J8Vbpcqc_dVAFhQ\" alt=\"1.png\"></p>\n</div>",
+      "title": "Vscode编辑器中Angular7提示工具下载量达到750万 -这意味着什么？ 王者归来来吗？",
+      "meta": {
+        "likeNum": 23,
+        "commentNum": 2035,
+      },
+      "author_nickname": "nodeper",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/41500847?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>不是读取网站目录拿到、我想要通过api接口获得，应该如何操作？\n默认创建账户method：personal_newAccount是拿不到这些的，不耻下问。</p>\n</div>",
+      "title": "请问以太坊创建账户如何拿到他的keystore和privatekey？",
+      "meta": {
+        "likeNum": 1,
+        "commentNum": 460,
+      },
+      "author_nickname": "onesez",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/16702534?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>在网络上大概搜索一下,好像是不能?虽然说Java编译的代码也能反编译(一般人还是反编译不了的)…但是直接把代码裸着部署在客户的服务器上不好吧?随随便便拷贝一下懂一些JS就能直接修改代码了…最重要的是,node.js做出来的产品在客户的服务器上部署并想按年授权收费是不是就没有办法了?还得用Java等语言重做?\n代码混淆jshaman挺好的,但是他们的代码混淆竟然不支持ES6语法~~~~~~~~~~~\n大家都是怎么弄得啊?还是大家都没有把服务端部署在客户本地服务器上的需求?</p>\n</div>",
+      "title": "node.js能像Java一样编译代码么?",
+      "meta": {
+        "likeNum": 16,
+        "commentNum": 1322,
+      },
+      "author_nickname": "iori2882",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1480587?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p><a href=\"http://uyi2.com\">下载地址</a>\n<img src=\"//static.cnodejs.org/FsUtVJ-iPxzBmZGlrnNdropb0NYT\" alt=\"ue2.png\"></p>\n</div>",
+      "title": "nodejs 培训机构实战教程免费下载",
+      "meta": {
+        "likeNum": 0,
+        "commentNum": 271,
+      },
+      "author_nickname": "xiaozhimn",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/4102025?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><h2>在线试用</h2>\n<p><a href=\"https://music.xinshangshangxin.com\">https://music.xinshangshangxin.com</a></p>\n<h2>github</h2>\n<p><a href=\"https://github.com/xinshangshangxin/music\">https://github.com/xinshangshangxin/music</a></p>\n<h2>界面说明</h2>\n<p><img src=\"//static.cnodejs.org/FlVr2g5AQa9uvyvMl1lGpwKgSciJ\" alt=\"image.png\">\n<img src=\"//static.cnodejs.org/FuxFd6aVqrX0QtkLNma7cLY0Xhdi\" alt=\"image.png\"></p>\n<h2>框架</h2>\n<p>前端  <code>Angular 6</code>, 后端  <code>nestjs</code> + <code>graphql</code>\n若有纰漏请大家补充指正~</p>\n<h2>其它</h2>\n<p><a href=\"https://github.com/xinshangshangxin/MusicPlayer/tree/v1\">早期 jQuery 写的音乐播放器</a>\n<a href=\"https://github.com/xinshangshangxin/MusicPlayer\">早期 angularjs(1.x) 写的音乐播放器</a></p>\n</div>",
+      "title": "每首歌只听最High部分的音乐播放器(支持酷狗/网易/虾米)[Angular + nestjs]",
+      "meta": {
+        "likeNum": 6,
+        "commentNum": 523,
+      },
+      "author_nickname": "xinshangshangxin",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8779091?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>先放链接：<a href=\"https://github.com/vincent178/flexrouter\">https://github.com/vincent178/flexrouter</a></p>\n<h2>为什么重新发明一个路由轮子？</h2>\n<p>react-router vue-router express 还有koa 都是用的 path-to-regexp, 将路由转化成正则表达式，然后循环比对当前路径找到符合的路由。在大量路由情况下查找性能会比较差。 Go 有个高性能的http路由 <a href=\"https://github.com/julienschmidt/httprouter%EF%BC%8C\">https://github.com/julienschmidt/httprouter，</a> 内部使用 Radix Tree 实现高性能路由查找，我也撸了一个 ts 版本的。</p>\n<h2>特性</h2>\n<p><strong>支持前端和后端:</strong></p>\n<p>后端例子没有用任何node框架 http 路由 <a href=\"https://github.com/vincent178/flexrouter/tree/master/examples/http-server-with-flexrouter\">https://github.com/vincent178/flexrouter/tree/master/examples/http-server-with-flexrouter</a>\n前端例子是 react 页面路由 <a href=\"https://github.com/vincent178/flexrouter/tree/master/examples/react-router-with-flexrouter\">https://github.com/vincent178/flexrouter/tree/master/examples/react-router-with-flexrouter</a></p>\n<p><strong>高性能:</strong></p>\n<p>在2000+路由的情况下，benchmark数据</p>\n<pre class=\"prettyprint\"><code>path-to-regexp#home x 4,247 ops&#x2F;sec ±1.82% (83 runs sampled)\nflexrouter#home x 4,856,189 ops&#x2F;sec ±0.71% (88 runs sampled)\npath-to-regexp#topic-detail x 4,247 ops&#x2F;sec ±1.33% (86 runs sampled)\nflexrouter#topic-detail x 1,254,182 ops&#x2F;sec ±0.82% (88 runs sampled)\n</code></pre><p><strong>多种格式支持:</strong>\nstatic route: <code>/home</code>\nparam route: <code>/topic/:id</code>\nparam route with regex: <code>topic/photo-:id(/\\\\d+/).jpg</code>\nwildcard route: <code>/*site</code></p>\n<p>其他细节 <a href=\"https://github.com/vincent178/flexrouter\">https://github.com/vincent178/flexrouter</a></p>\n<p>fastify也有个类似的实现叫 find-my-way， 但是它实现有点问题，这也是我想自己实现一个版本的原因。</p>\n</div>",
+      "title": "高性能基数树路由库 flexrouter，能同时和React和koa一起用的路由库",
+      "meta": {
+        "likeNum": 4,
+        "commentNum": 297,
+      },
+      "author_nickname": "vincent178",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2183720?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p><strong>《软硬结合——从零打造物联网》</strong>，这个教程起源于我两年前做毕业设计时太累了，踩了不少坑，所以决定等有空的时候就整理写一份教程，毕竟自己走过的弯路，可以告诉别人不必再走。<strong>通过此教程，吸引更多人到nodejs开发~</strong></p>\n<h2>教程主要内容</h2>\n<ol>\n<li>告诉大家javascript是个好东西，特别是对于一个人要做所有事的时候，原因如图所示：\n<img src=\"http://ww1.sinaimg.cn/large/005BIQVbgy1fy6ia4qfrdj30nb0ebqm0.jpg\" alt=\"无所不能的JS\"></li>\n<li>在教程里写了demo1与demo2\ndemo1演示了最简单的物联网项目：通过手机控制LED灯开关。硬件上使用淘宝价十几块钱的nodemcu。\ndemo2在demo1的基础上引入了 增加实时性的websocket、数据可视化echart、数据库mongodb。\n为更好地突显javascript的优越性，还完成了<strong>微信小程序</strong>、<strong>.exe应用</strong>以供参考。</li>\n<li>为了保证傻瓜式教学，我录了很多短视频以保证新手们跟着做没有错，并且制作了大量图片以免全是文字导致教程太无聊，</li>\n<li>还简单地讨论了通信协议等内容（TCP、HTTP、websocket、MQTT），让大家学习网络知识。</li>\n<li>本教程会让你学习其它大量的教程，阅读大量的书籍，别人制作得很好的教程我就不重复写。</li>\n</ol>\n<p><img src=\"http://ww1.sinaimg.cn/large/005BIQVbgy1fzbotaayifj30lu0coab7.jpg\" alt></p>\n<h2>最后</h2>\n<p>由于我还是萌新，所制作的教程会受限于个人经验不足，但我会长期维护，随着大家学习时提出的问题，我会完善教程对应不足的地方，编写FAQ。欢迎大家把这教程分享给有需要的人，欢迎大佬们指出不足，我会花时间去做修改。希望此教程能帮到有需要的人。</p>\n<ul>\n<li><a href=\"https://www.scaugreen.cn/posts/44755/\">在线浏览</a></li>\n<li><a href=\"https://github.com/alwxkxk/soft-and-hard\">github</a></li>\n</ul>\n<p><img src=\"https://camo.githubusercontent.com/f5cbcbeb3c56970bf24be29cd48e348316d1f2ac/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f3030354249515662677931667a36647530756267346a333168633071323761392e6a7067\" alt=\"软硬结合\"></p>\n</div>",
+      "title": "基于javascript全栈的物联网入门教程——《软硬结合，从零打造物联网》",
+      "meta": {
+        "likeNum": 3,
+        "commentNum": 427,
+      },
+      "author_nickname": "alwxkxk",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/16029024?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><blockquote>\n<p>本文 context ：面向于 C 端的产品/公司；</p>\n</blockquote>\n<blockquote>\n<p>本文核心不是强调某一个岗位，而是应该“离业务更近”，“离用户更近”</p>\n</blockquote>\n<p>在现代的工业体系下，任何工作都被拆分为流水线上的一环，如今的互联网行业更是从用户那里知道他们想要什么再到实际做出来，有足足六七个环节。</p>\n<p><img src=\"https://ws3.sinaimg.cn/large/006tNc79ly1fzwukjnuwcj31220ggwey.jpg\" alt></p>\n<p>作为一个有写代码爱好的人来说，能选择的余地不多，唯有「<strong>后端工程师</strong>」和「<strong>前端工程师</strong>」，在过去的很长时间，我基本上呆在后端的领域，去做了很多后端相关的开发，自己也在后端方面有了更多的认识。</p>\n<p>在新的 2019 年，我将会尝试让自己转向，成为一个前端工程师。接下来，我来说一说我这个选择的背后逻辑。</p>\n<h2>员工的价值到底由什么决定？</h2>\n<blockquote>\n<p>白子：离客户越近，其价值就越大。</p>\n</blockquote>\n<p>提到择业，就避不开两个话题，企业的需求和员工的价值。一般来说，我们认为，<strong>员工的价值由他为企业带来的价值所决定</strong>。</p>\n<p>这句话没错，那么，员工如何为企业带来价值？</p>\n<p>员工可以帮助企业创造更好的产品，但是，<strong>这是价值么？</strong></p>\n<p>更好的产品本身并不是价值，<strong>其所带来的用户、客户才是真正的价值</strong>。</p>\n<p>员工本身并不让企业盈利，相反，企业需要支付费用给员工。而客户则是支付费用给公司，帮助企业盈利。</p>\n<p>从这个角度来看，<strong>离客户越近的人，越能产生价值</strong>，这也就是为什么我们会经常看到一个企业里，销售是赚钱最多的人，因为他们离客户最近，能够给企业带来实打实的价值。</p>\n<h2>技术背后的陷阱</h2>\n<blockquote>\n<p>白子：技术本身就是螺丝钉，只研技术，不过是一个螺丝钉，变成一个更粗的螺丝钉。</p>\n</blockquote>\n<p>关注技术本身有没有坏处？当然没有，作为一个开发者，追求技术的卓越是应有的义务。但是，从企业的角度来说，<strong>只关注技术本身，意味着你的价值会不断降低。</strong></p>\n<p>技术再强，也是可以找到替代者的，区别仅仅是愿不愿意花那么多钱罢了。业务理解的深度，却是其他人无法轻易替代的。江山代有才人出，各领风骚数百年，技术迭代速度非常快，总会有新人出来，比你更加擅长技术。</p>\n<h2>为什么是前端不是后端</h2>\n<blockquote>\n<p>白子：如今的前端更加接近业务本身，更具备价值</p>\n</blockquote>\n<p>随着现代软件产品的高度流水线化，我们推崇的<strong>前后端分离、RESTFul API、GraphQL 让后端的工作越来越轻松</strong>，可以花费更多的精力投放在技术深度的探索，去研究更加深层次的优化问题，而不需要花费更多的心思在业务逻辑上去。</p>\n<p>同样的，<strong>前端不得不承担起业务流程的开发，工作量大大加大</strong>。虽然有各种各样的组件库帮助前端优化了具体布局、界面上面的工作，<strong>但业务流程本身的复杂度并不会因为组件库的引入而简化</strong>。</p>\n<p>在这种强前端重后端的模式下，前端承担了原本是后端的工作，让后端不再需要去理解业务逻辑，更加关注技术本身的内容就可以了。<strong>离业务越来越远，使得后端的话语权越来越小。</strong></p>\n<h2>游刃有余的前端</h2>\n<p><strong>前端工程师本身负责的是客户可以看见的内容，这使得他们相比于后端工程师，有着更多的职业选择</strong>。</p>\n<p>他们了解用户交互体验，可以从开发转换成为用户研究</p>\n<p>他们了解用户使用方法，可以从开发转换成为销售</p>\n<p>他们了解用户使用路径，可以从开发转换成为产品经理</p>\n<p><strong>而后端，由于专精于技术，其职业选择，也不过是从一门技术，转为另外一门技术罢了。</strong></p>\n</div>",
+      "title": "离用户近一点，再近一点",
+      "meta": {
+        "likeNum": 4,
+        "commentNum": 624,
+      },
+      "author_nickname": "bestony",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13283837?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>我知道一般程序员做笔记都用markdown，但是支持markdown的笔记软件也有很多。</p>\n<p>我之前都是用txt。\n优点只有一个：方便</p>\n<p>缺点一堆</p>\n<p>求推荐一个用起来顺手的。最好能登陆更新那种的。</p>\n</div>",
+      "title": "大家好，问个问题，请问大家遇到做笔记的时候用什么软件啊",
+      "meta": {
+        "likeNum": 14,
+        "commentNum": 858,
+      },
+      "author_nickname": "a69694510",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/20507053?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>大家好，很开心在这里宣布 YodaOS 开源了。他将承载 Rokid 4年以来对于人工智能和语音交互领域的沉淀，并选择 Node.js 作为操作系统的一等开发公民，全部开放给社区。</p>\n<p><img src=\"//static.cnodejs.org/FonFMOGJSL2v_OCVBkKULbZs2IJR\" alt=\"yoda-arch.png\"></p>\n<p>YodaOS 的架构跟 Android 类似，从下至上，由 Linux Kernel、系统服务和应用框架组成。不过 YodaOS 有以下不同：</p>\n<ul>\n<li>开发者可以直接使用 JavaScript / Node.js 来开发本地应用（技能）；</li>\n<li>封装了 AI 抽象层，可以通过 JavaScript 直接调用到诸如语音激活、语音识别、人脸识别等接口；</li>\n</ul>\n<p>除了支持默认的 Node.js API 外，YodaOS 还提供：</p>\n<ul>\n<li>内置的语音激活和语音识别 API，真正做到了开箱即用（开发）的语音交互系统；</li>\n<li>对音量控制、电源管理、蓝牙、多媒体播放、LED 灯效和 OTA 等都进行了接口封装；</li>\n<li>对物联网开发者来说，内置了标准化的 WebSocket、MQTT 等物联网协议的客户端实现；</li>\n</ul>\n<p>YodaOS 也支持 npm 仓库，开发者可以根据自己的需要在 OS 中运行所需的模块，不过并不推荐使用一些实现起来很重的模块，因为 YodaOS 需要支持中低端设备，所以有时候也需要考虑到性能方面的因素。</p>\n<p>如果遇到一些 npm 仓库确实实现很重，但又不得不用的时候，在 YodaOS 上，我们一般的做法是使用 N-API 桥接 C/C++ 模块，然后保证 JavaScript API 与对应的 npm 包一致。</p>\n<p>同时借助于 N-API，开发者可以将任何 Linux 的库移植到 YodaOS 上，并通过 N-API 以 JavaScript API 方式使用，可以这么理解，N-API 之于 YodaOS，就像 JNI 之于 Android。</p>\n<p><img src=\"//static.cnodejs.org/FkOaVJ5f8rc8m3a_be8D0uQpuBJM\" alt=\"yoda-nodejs.png center\"></p>\n<h3>为什么是 Node.js</h3>\n<p>前面提到了 YodaOS 选择拥抱 Node.js 和 Node.js 开发者，最大的一个原因就是在过去将近10年的时间，从最开始 Ryan Dahl 定义的，一个轻量级的 Web 服务器框架，到如今的 Express、Loopback、Koajs、Midway 和 Egg Framework，在 Web 服务器框架领域已经渐渐成熟。</p>\n<p>依托于 Node.js 提供的运行时，从 Grunt、Gulp 到现在的 Webpack 和 Parcel，在构建工具领域，社区也不断涌现出非常卓越的开源项目来。Node.js 正在发挥每位开发者的想象力，社区中几乎有你需要的一切，甚至于在社区中，有一句流传已久的名言：</p>\n<blockquote>\n<p>“any application that can be written in JavaScript, will eventually be written in JavaScript” ——Atwood’s Law</p>\n</blockquote>\n<p>意思就是说，只要能被 JavaScript 来编写的程序，终将使用 JavaScript 实现。那为什么不用 JavaScript 来写一个操作系统呢？</p>\n<p>当然上面的只是一个有趣的引子，Rokid 真正想做的是让 Node.js 开发者能够以更低的门槛进入语音交互和嵌入式领域。</p>\n<h3>Node.js 与 ShadowNode</h3>\n<p>YodaOS 虽然跟 Android 的架构相似，不过解决的问题，及目标设备并不尽然相同，对于现在越来越便宜的手机，Android 开发者几乎不用担心系统性能的问题。然而对于像智能音响、IoT 终端以及其他嵌入式设备，通常硬件资源都是非常紧缺的，在这种情况下，OS 就要解决开发者“既要节省资源、又要便于开发”的问题。</p>\n<p>于是针对中低端硬件产品（内存介于 128MB 到 256MB 之间），我们创造了 ShadowNode 来解决这个问题，它是 Rokid 基于三星 IoT.js 二次开发的一款 Node.js 运行时，它具备更快的启动速度和更低的资源占用，相比 IoT.js，它：</p>\n<ul>\n<li>提供了更好的错误栈信息和性能调试工具；</li>\n<li>支持了基于 N-API 的跨运行时模块执行；</li>\n<li>针对特定芯片的性能优化，比如 AmLogic A113 和 Kamino18；</li>\n</ul>\n<p>借助于 N-API 的 ABI 兼容特性，我们实现了 OS 上层框架和应用的运行时兼容性。比如开发者完全可以选择在更高级的设备上运行 YodaOS，此时内存和 Flash 不再是瓶颈，开发者只需要更换系统中的 Node.js 运行时，即可获得更快的执行速度，不需要修改一行上层代码。</p>\n<h3>最后</h3>\n<p>我们希望借助 YodaOS，为 Node.js 社区补全终端开发这一版图，让我们用这门亲切的语言，再次回到我们熟悉的“端”的开发。</p>\n<p>如果想一起加入 YodaOS，可以在 GitHub 上关注我们，项目地址：<a href=\"https://github.com/yodaos-project/yodaos\">https://github.com/yodaos-project/yodaos</a></p>\n</div>",
+      "title": "YodaOS：一个属于 Node.js 社区的操作系统",
+      "meta": {
+        "likeNum": 19,
+        "commentNum": 1704,
+      },
+      "author_nickname": "yorkie",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1935767?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>Electron是一个跨平台的桌面应用开发框架，可以让我们用html css js的技术开发跨平台桌面上可以安装的软件。</p>\n<p><strong>前4讲免费试听地址：</strong></p>\n<p><a href=\"https://pan.baidu.com/s/1Dol4tP6Jop6MXro0ULVapQ\">https://pan.baidu.com/s/1Dol4tP6Jop6MXro0ULVapQ</a></p>\n<p>electron Github的 star已经达到61957，那么他的<strong>用户量可能已经有100万了</strong>。还有大家知道的github的atom编辑器、微软的vscode编辑器，包括阿里内部的一些软件也是用 electron 开发的。既然这么热，<strong>那就一个字：学</strong>，大家都在学，你不学（有没有压力啊！！！）</p>\n<p><strong>28元购买地址</strong>:<a href=\"https://www.itying.com/goods-929.html\">https://www.itying.com/goods-929.html</a></p>\n<p><img src=\"//static.cnodejs.org/FqbpQ7iHRMdMdSrEGLD_xpe4CabH\" alt=\"1.png\"></p>\n</div>",
+      "title": "Electron视频教程_Electron+Vue跨平台桌面软件开发视频教程（收费啊--不贵一包烟钱-有试听）",
+      "meta": {
+        "likeNum": 31,
+        "commentNum": 6970,
+      },
+      "author_nickname": "it-ionic",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/17946554?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>最近想用node.js重构公司后端。egg.js和nest.js改选择哪一个作为系统框架呢，大神们给点意见？</p>\n</div>",
+      "title": "egg.js和nest.js改选择哪一个作为系统框架呢，大神们给点意见？",
+      "meta": {
+        "likeNum": 57,
+        "commentNum": 6178,
+      },
+      "author_nickname": "danielmlc",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/16604995?v=4&s=120"
+      
+    },
+    {
+      "content": "<div class=\"markdown-text\"><p>请问下，有三个表，articles(文章), collections（专集）, articles_collection(关联表)\narticles和collections是多对多的关系，\n一个专集下可以收录多篇文章, 这时有两种状态(用articles_collection表中的status字段表示)\n1.收录中等待审核\n2.已收录</p>\n<p>三个表如下</p>\n<pre class=\"prettyprint\"><code>+-------------+--------------+----------------------------+\n|                        articles                         |\n+-------------+--------------+----------------------------+\n| id          | int(11)      | PRIMARY KEY AUTO_INCREMENT |\n| title       | varchar(255) |                            |\n+-------------+--------------+----------------------------+\n\n+-------------+--------------+----------------------------+\n|                        collections                         |\n+-------------+--------------+----------------------------+\n| id          | int(11)      | PRIMARY KEY AUTO_INCREMENT |\n| title       | varchar(255) |                            |\n+-------------+--------------+----------------------------+\n\n+-------------+--------------+----------------------------+\n|                        articles_collection                         |\n+-------------+--------------+----------------------------+\n| article_id          | int(11)      |                                   |\n| collection_id       | int(11)  |                            |\n| status       | int(11) |                            |\n+-------------+--------------+----------------------------+\n</code></pre><p>查询的场景为\n1.查某个专集下的文章, 包括收录中等待审核, 已收录\n2.查某个专集下的文章，只查已收录的</p>\n<p>请问下目前的设计是否合理呢? articles_collection表中索引怎么建合适呢？</p>\n</div>",
+      "title": "mysql表、索引设计问题",
+      "meta": {
+        "likeNum": 7,
+        "commentNum": 630,
+      },
+      "author_nickname": "hujunyuan8058",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/37411247?v=4&s=120"
+      
+    }
+  ]
+}
