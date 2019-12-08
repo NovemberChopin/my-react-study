@@ -1,0 +1,22 @@
+{
+  "name": "koa-demo",
+  "version": "1.0.0",
+  "description": "my koa learn demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "js",
+  "license": "MIT",
+  "dependencies": {
+    "busboy": "^0.3.0",
+    "ejs": "^2.6.1",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^3.2.0",
+    "koa-mysql-session": "^0.0.2",
+    "koa-router": "^7.4.0",
+    "koa-session-minimal": "^3.0.4",
+    "koa-static": "^5.0.0",
+    "koa-views": "^6.1.5"
+  }
+}
