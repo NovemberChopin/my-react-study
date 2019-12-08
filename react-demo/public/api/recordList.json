@@ -1,0 +1,33 @@
+{
+  "state": "success",
+  "data": [
+    {
+    "key": 0,
+    "date": "2018-1-1",
+    "type": "收入",
+    "reason": "兼职",
+    "money": 100
+    },
+    {
+    "key": 1,
+    "date": "2018-1-2",
+    "type": "支出",
+    "reason": "午餐",
+    "money": 10
+    },
+    {
+      "key": 2,
+      "date": "2018-1-3",
+      "type": "支出",
+      "reason": "午餐",
+      "money": 15
+    },
+    {
+      "key": 3,
+      "date": "2018-1-3",
+      "type": "收入",
+      "reason": "兼职",
+      "money": 10
+    }
+  ]
+}
