@@ -1,4 +1,4 @@
-const mongoose = require('./db')
+const mongoose = require('./db').default.default
 
 const UserMsgSchema = mongoose.Schema ({
   userID: {

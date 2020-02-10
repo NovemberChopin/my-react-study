@@ -28,7 +28,7 @@ class ErrorModel extends BassModel {
   }
 }
 
-module.exports = {
+export default {
   SuccessModel,
   ErrorModel
 }

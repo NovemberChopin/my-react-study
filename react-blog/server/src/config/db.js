@@ -17,6 +17,6 @@ if(env === 'production') {
   }
 }
 
-module.exports = {
+export default {
   MONGODB_CONF
 }

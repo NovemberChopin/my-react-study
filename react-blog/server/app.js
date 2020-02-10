@@ -17,7 +17,7 @@ app.use(staResoure(
   path.join(__dirname, '../react-blog/build')
 ))
 
-app.js
+
 // 装载路由
 app.use(router.routes()).use(router.allowedMethods())
 
